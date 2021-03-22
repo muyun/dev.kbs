@@ -14,6 +14,7 @@ Flask-Markdown==0.3
 Flask-Misaka==1.0.0
 Frozen-Flask==0.15
 furo==2021.2.28b28
+gunicorn==20.0.4
 idna==2.10
 imagesize==1.2.0
 iniconfig==1.1.1
