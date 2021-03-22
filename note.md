@@ -10,9 +10,10 @@
   - next functions  
     + fix the file format  
         - fix it basically  
-    + add tag 
     + on cloud 
-        - render ? 
+        - [mykbs on pythonanywhere](http://muyun.pythonanywhere.com/) 
+    
+    + add tag 
     + RSS 
     + Q&A interviews 
 
