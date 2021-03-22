@@ -11,32 +11,32 @@ def my_renderer(text):
     return pygmented_markdown(prerendered_body)
 
 
-def create_app(test_config=None):
-    app = Flask(__name__)
+#def create_app(test_config=None):
+app = Flask(__name__)
 
-    if test_config is None:
-        app.config.from_pyfile('config.py')
-    else:
-        app.config.from_mapping(test_config)
+#if test_config is None:
+app.config.from_pyfile('config.py')
+#else:
+#    app.config.from_mapping(test_config)
 
-    @app.route('/hello')
-    def hello():
-        return 'Hello, World!'
+@app.route('/hello')
+def hello():
+    return 'Hello, World!'
 
-    @app.route('/pygments.css')
-    def pygments_css():
-        return pygments_style_defs('tango'), 200, {'Content-Type': 'text/css'}
+@app.route('/pygments.css')
+def pygments_css():
+    return pygments_style_defs('tango'), 200, {'Content-Type': 'text/css'}
 
-    app.config['FLATPAGES_HTML_RENDERER'] = my_renderer
-    Markdown(app, extensions=['fenced_code'])
-    pages.init_app(app)
+app.config['FLATPAGES_HTML_RENDERER'] = my_renderer
+Markdown(app, extensions=['fenced_code'])
+pages.init_app(app)
 
-    import blog
-    app.register_blueprint(blog.bp)
+import blog
+app.register_blueprint(blog.bp)
     #app.add_url_rule('/', endpoint='index')
 
-    import info
-    app.register_blueprint(info.bp)
+import info
+app.register_blueprint(info.bp)
 
-    return app
+#    return app
 
