@@ -4,7 +4,7 @@ from flask import Blueprint, render_template
 
 bp = Blueprint('info', __name__)
 
-from . import pages
+from app import pages
 
 @bp.route('/link')
 def link():

@@ -4,7 +4,7 @@ from flask import Blueprint, render_template
 
 bp = Blueprint('blog', __name__)
 
-from . import pages
+from app import pages
 
 #FLATPAGES_AUTO_RELOAD = DEBUG
 #FLATPAGES_EXTENSION = [".md", ".markdown"]
