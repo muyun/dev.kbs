@@ -29,3 +29,7 @@ def page(path):
 def blog():
     return render_template("blog/index.html", pages=pages)
 
+@bp.route('/tag/<string:tag>')
+def tag():
+    tagged = [p for p in pages if tag in p.meta.get("tags", [])]
+    return render_template("blog/tags.html", pages=tagged, tag=tag)

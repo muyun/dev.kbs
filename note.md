@@ -14,8 +14,12 @@
         - [mykbs on pythonanywhere](http://muyun.pythonanywhere.com/) 
         - pythonanywhere is for hackers/engineers
     
-    + add tag 
-    + RSS 
+    + tags, Clicking a tag shows all the posts with that tag.
+        - DOING  
+
+    + a search box that filters the index page by name or date  
+    * only show 5 posts per page   
+    + RSS feed of new posts  
     + Q&A interviews 
 
   
