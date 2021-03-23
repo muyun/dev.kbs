@@ -13,7 +13,7 @@ from app import pages
 #FLATPAGES_AUTO_RELOAD = DEBUG
 #FLATPAGES_EXTENSION = '.md'
 
-DRAFT = ['draft', 'diary', 'learning', 'notes', 'todo']
+DRAFT = ['draft', 'diary', 'learning', 'test', 'notes', 'todo']
 
 def _list_no_draft():
     tagged = []
