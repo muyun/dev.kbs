@@ -17,6 +17,8 @@
     + tags, Clicking a tag shows all the posts with that tag.
         - DOING  
 
+    + code optimization and restruct 
+
     + a search box that filters the index page by name or date  
     * only show 5 posts per page   
     + RSS feed of new posts  

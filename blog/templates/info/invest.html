@@ -2,14 +2,13 @@
 
 {% block content %}
 <header>
-    <h2>Invest</h2>  
+    <h2>{{ page.title }}</h2>  
 </header>
 
-{% for page in pages if page.title == 'Invest' %} 
     <article class="post">
     
     <p class="body">{{ page.html |markdown }}</p>
     </article>
 
-    {% endfor %}
+
 {% endblock content %}

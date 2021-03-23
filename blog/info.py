@@ -8,28 +8,30 @@ from app import pages
 
 @bp.route('/link')
 def link():
-    return render_template('info/link.html', pages=pages)
+    page = pages.get_or_404('link')
+    return render_template('info/link.html', page=page)
 
 @bp.route('/business')
 def business():
-    return render_template('info/business.html', pages=pages) 
+    page = pages.get_or_404('business')
+    return render_template('info/business.html', page=page) 
 
 @bp.route('/proj')
 def proj():
-    #return 'research'
-    return render_template('info/proj.html', pages=pages)
+    page = pages.get_or_404('proj')
+    return render_template('info/proj.html', page=page)
 
 @bp.route('/book')
 def book():
-    return render_template('info/book.html', pages=pages)
+    page = pages.get_or_404('book')
+    return render_template('info/book.html', page=page)
 
 @bp.route('/invest')
 def invest():
-    return render_template('info/invest.html', pages=pages) 
-
-
-
+    page = pages.get_or_404('invest')
+    return render_template('info/invest.html', page=page) 
 
 @bp.route('/about')
 def about():
-    return render_template('info/about.html', pages=pages)
+    page = pages.get_or_404('about')
+    return render_template('info/about.html', page=page)

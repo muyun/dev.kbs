@@ -5,11 +5,9 @@
     <h2>Business - startup/ideas</h2>  
 </header>
 
-{% for page in pages if page.title == 'Business' %} 
     <article class="post">
     
     <p class="body">{{ page.html |markdown }}</p>
     </article>
 
-    {% endfor %}
 {% endblock content %}

@@ -1,4 +1,5 @@
 from flask import Blueprint, render_template
+from markupsafe import escape
 
 #from flask_flatpages import FlatPages
 
@@ -29,7 +30,9 @@ def page(path):
 def blog():
     return render_template("blog/index.html", pages=pages)
 
-@bp.route('/tag/<string:tag>')
-def tag():
-    tagged = [p for p in pages if tag in p.meta.get("tags", [])]
-    return render_template("blog/tags.html", pages=tagged, tag=tag)
+@bp.route('/<string:tag>/')
+def tag(tag):
+    tagged = [page for page in pages if tags in page.meta.get("tags", [])]
+    #tagged = [p for p in pages if tag in p.meta.get("tags", [])]
+    #print("tagged:", _tagged)
+    return render_template("blog/tag.html", tagged=tagged, tag=tag)
