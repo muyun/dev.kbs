@@ -15,9 +15,10 @@
         - pythonanywhere is for hackers/engineers
     
     + tags, Clicking a tag shows all the posts with that tag.
-        - DOING  
+        - DONE   
 
     + code optimization and restruct 
+        - Done, add filter in back-end not in jinja files  
 
     + a search box that filters the index page by name or date  
     * only show 5 posts per page   
