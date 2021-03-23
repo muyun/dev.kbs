@@ -13,7 +13,7 @@ from app import pages
 #FLATPAGES_AUTO_RELOAD = DEBUG
 #FLATPAGES_EXTENSION = '.md'
 
-DRAFT = ['draft', 'diary', 'learning', 'test', 'notes', 'todo']
+DRAFT = ['draft', 'diary', 'learning', 'course']
 
 def _list_no_draft():
     tagged = []
@@ -56,9 +56,8 @@ def index():
     #page = pages.get('hello')
     #print(page.title)
     # don't list posts tagging with DRAFT
-    tagged = _list_no_draft()  
-    for page in tagged:
-        print("page.meta:", page.meta)
+    #tagged = _list_no_draft()  
+    tagged = _tag('home')
     return render_template("blog/index.html", pages=tagged)
 
 @bp.route('/<path:path>/')
@@ -70,7 +69,8 @@ def page(path):
 def blog():
     #pages = [page for page in pages if page.meta.get("title", []) != 'link']
     #print("pages:", )
-    tagged = _list_no_draft()
+    #tagged = _list_no_draft()
+    tagged = _tag('home')
     return render_template("blog/index.html", pages=tagged)
 
 @bp.route('/<string:tag>/')
