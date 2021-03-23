@@ -16,12 +16,16 @@
     
     + tags, Clicking a tag shows all the posts with that tag.
         - DONE   
+        - fix the file format issues  
+        - tags function is so convenient for index/home functions  
+        - so exciting to code it myself 
 
     + code optimization and restruct 
-        - Done, add filter in back-end not in jinja files  
+        - Done, use filter in back-end, not in front-end/jinja for it
+
+    + only show lates 5 posts, and multi-pages    
 
     + a search box that filters the index page by name or date  
-    * only show 5 posts per page   
     + RSS feed of new posts  
     + Q&A interviews 
 
