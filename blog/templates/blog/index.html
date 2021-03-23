@@ -15,15 +15,31 @@
           <h4> 
             <a href="{{ url_for('blog.page', path=page.path) }}">{{ page.title }} 
               <label class="date"> - {{ page.date }}</label></a>  <br/>
-            
-               {% for tag in page.tags.split(',') -%}
+               {% if page.tags |length %}
+
+               {% for tag in page.tags.split(',') %}
       
                 <small>
                   <a href="{{ url_for('blog.tag', tag=tag|trim) }}"> 
                     <label class="tag">#{{ tag|trim }}</label></a>
                   </small> 
                   
-               {%- endfor %}
+               {% endfor %}
+
+               {% endif %}
+
+               {% if page.categories %}
+
+               {% for tag in page.categories %}
+      
+                <small>
+                  <a href="{{ url_for('blog.tag', tag=tag|trim) }}"> 
+                    <label class="tag">#{{ tag|trim }}</label></a>
+                  </small> 
+                  
+               {% endfor %}
+
+               {% endif %}
 
           </h4> 
         </article>
