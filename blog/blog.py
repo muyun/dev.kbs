@@ -26,13 +26,16 @@ def page(path):
     page = pages.get_or_404(path)
     return render_template('blog/page.html',page=page) 
 
+titles = ['Slides', 'About','Bookshelf', 'link','Invest', 'Business'  ]
 @bp.route('/blog')
 def blog():
+    #pages = [page for page in pages if page.meta.get("title", []) != 'link']
+    #print("pages:", )
     return render_template("blog/index.html", pages=pages)
 
 @bp.route('/<string:tag>/')
 def tag(tag):
-    tagged = [page for page in pages if tags in page.meta.get("tags", [])]
+    tagged = [page for page in pages if tag in page.meta.get("tags", [])]
     #tagged = [p for p in pages if tag in p.meta.get("tags", [])]
     #print("tagged:", _tagged)
     return render_template("blog/tag.html", tagged=tagged, tag=tag)

@@ -14,7 +14,15 @@
         <article class="post">
           <h4> 
             <a href="{{ url_for('blog.page', path=page.path) }}">{{ page.title }} 
-              <label class="date"> - {{ page.date }}</label></a>  
+              <label class="date"> - {{ page.date }}</label></a>  <br/>
+            
+               {%- for tag in page.tags.split(',') -%}
+                <small>
+                  <a href="{{ url_for('blog.tag', tag=tag) }}"> 
+                    <label class="tag">#{{ tag }}</label></a>
+                  </small> 
+               {% endfor %}
+
           </h4> 
         </article>
       {% endif %}

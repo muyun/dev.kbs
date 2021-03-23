@@ -162,6 +162,10 @@ li {
   width: 240px;
   float: left;
 }
+
+.tag {
+  color: #818181;
+}
 /*
 .footer-col-1 {
   width: 240px;
