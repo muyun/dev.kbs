@@ -5,7 +5,7 @@
 {% block content %}
     <ul>
     {% for page in tagged|sort(reverse=true, attribute='date') %}
-
+    
     {% if page.tags |length %} 
        {% if tag in page.tags %}
        

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "!Manage your career"  
-date: '2016-04-03 '
+date: 2016-04-03
 comments: true
 categories: [learning, softskill, teamwork]
 abstract: "Some lessons about team skills"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "总结这几个月"
-date: 2014-07-13 14:53
+date: 2014-07-13
 comments: true
 categories: [summary, diary]
 ---
