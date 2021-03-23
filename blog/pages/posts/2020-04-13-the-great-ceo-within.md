@@ -3,7 +3,7 @@ layout: post
 title: "Notes on The Great CEO Within"
 date: 2020-04-13
 comments: true
-categories: [summary, learning, work]
+categories: [notes, starup, management, work]
 ---
 
 #### The Beginning
