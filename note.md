@@ -24,6 +24,7 @@
         - Done, use filter in back-end, not in front-end/jinja for it
 
     + only show lates 5 posts, and multi-pages    
+        - flask-paginate 
 
     + a search box that filters the index page by name or date  
     + RSS feed of new posts  

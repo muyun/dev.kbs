@@ -17,8 +17,8 @@
               <label class="date"> - {{ page.date }}</label></a>  <br/>
                {% if page.tags |length %}
 
-               {% for tag in page.tags.split(',') %}
-      
+               {% for tag in page.tags.split(',') if tag|trim != 'home' %}
+
                 <small>
                   <a href="{{ url_for('blog.tag', tag=tag|trim) }}"> 
                     <label class="tag">#{{ tag|trim }}</label></a>
@@ -30,7 +30,7 @@
 
                {% if page.categories %}
 
-               {% for tag in page.categories %}
+               {% for tag in page.categories if tag|trim != 'home' %}
       
                 <small>
                   <a href="{{ url_for('blog.tag', tag=tag|trim) }}"> 
