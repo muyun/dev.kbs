@@ -23,11 +23,17 @@
     + code optimization and restruct 
         - Done, use filter in back-end, not in front-end/jinja for it
 
-    + only show lates 5 posts, and multi-pages    
+    + RSS feed from new posts  
+        - feedparser 
+    
+    + only show latest 5 posts, and multi-pages    
         - flask-paginate 
 
+    + TODO 
+    + RSS function  
+        - python3-feedgen 
     + a search box that filters the index page by name or date  
-    + RSS feed of new posts  
+
     + Q&A interviews 
 
   
