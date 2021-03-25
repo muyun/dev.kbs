@@ -27,21 +27,27 @@ date: 2012-03-19
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 * [courses](https://learn.saylor.org/course/index.php)
 
-#### TOCHECK
+#### CHECK
+* **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)** 
+* **[Patrick Collison](https://patrickcollison.com/)**  
 * [Blog Surf](https://dkb.io/)
+* [Paul Graham](http://www.paulgraham.com/articles.html)
+* **[Cate](https://cate.blog/about/)**  
+* **[Kate Matsudaira](http://katemats.com/about/)**  
+* [Tracy Chou's blog](https://triketora.com/)
+* [Niniane](http://niniane.blogspot.hk/)
+* [programming in the twenty-first century](http://prog21.dadgum.com/)
+* [bast.bookmarks](https://bast.fr/bookmarks/)
+
 
 #### tech
-* **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)** 
 * **[Tim](https://www.oreilly.com/tim/)**     
 * [Joel On Software](https://www.joelonsoftware.com/)
-* **[Patrick Collison](https://patrickcollison.com/)**  
 * [James Long](https://jlongster.com/)  
 * 
 * [Chip Huyen](https://huyenchip.com/)
 * [Matt Might](http://matt.might.net/articles/)
-* **[Kate Matsudaira](http://katemats.com/about/)**  
 * **[Erik Bernhardsson](https://erikbern.com/)**
-* **[Cate](https://cate.blog/about/)**  
 * [Julie Zhuo](http://juliezhuo.com/)
 * [Chip Huyen](https://huyenchip.com/)
 * [Kenneth Reitz](https://www.kennethreitz.org/)
@@ -52,8 +58,6 @@ date: 2012-03-19
 * [Peter Norvig](http://norvig.com/)
 * [vgod's blog](http://blog.vgod.tw/)
 * [Programming](http://www.cnblogs.com/weidagang2046) 
-* [programming in the twenty-first century](http://prog21.dadgum.com/)
-* [bast.bookmarks](https://bast.fr/bookmarks/)
 * [Llogiq on stuff on Rust](https://llogiq.github.io/)
 * [Dave Cheney on Golang](https://dave.cheney.net/about)
 *  
@@ -66,9 +70,7 @@ date: 2012-03-19
 #### skills
 * **[Alexey Guzey](https://guzey.com/)**  
 *  
-* [Niniane](http://niniane.blogspot.hk/)
 * [Study Hacks Blog](http://calnewport.com/blog/)
-* [Tracy Chou's blog](https://triketora.com/)
 * [Aaron Swartz](http://www.aaronsw.com/)
 * [Andrej Karpathy blog](http://karpathy.github.io/)
 * [Bret Taylor](https://backchannel.org/)
@@ -86,11 +88,8 @@ date: 2012-03-19
 * [Philip J. Guo](http://www.pgbovine.net/)
 * [云风的BLOG](http://blog.codingnow.com/)
 
-#### economic
-* [张五常](http://nscheung.blogspot.com/)
 
 #### funs
-* [Paul Graham](http://www.paulgraham.com/articles.html)
 * [土摩托日记](http://www.immusoul.com/)
 * [刘瑜](http://www.aisixiang.com/thinktank/liuyu.html)
 * [资中筠](http://www.aisixiang.com/thinktank/zizhongyun.html)
@@ -102,3 +101,4 @@ date: 2012-03-19
 * [DAVID PABLO COHN](https://davidpablocohn.com/)
 * [SYARU SHIRLEY LIN 林夏如](http://www.shirleylin.net/)
 * [Connie Chan's sharing cross-border](http://www.conniechan.com/) 
+* [张五常](http://nscheung.blogspot.com/)

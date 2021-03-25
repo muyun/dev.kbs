@@ -25,6 +25,10 @@
 
     + RSS feed from new posts  
         - feedparser 
+
+    + Store and list the liked posts 
+
+    + write note 
     
     + only show latest 5 posts, and multi-pages    
         - flask-paginate 
