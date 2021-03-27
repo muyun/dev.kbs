@@ -23,10 +23,11 @@
     + code optimization and restruct 
         - Done, use filter in back-end, not in front-end/jinja for it
 
+    + Store and list the liked posts and search based on tags
+
+
     + RSS feed from new posts  
         - feedparser 
-
-    + Store and list the liked posts 
 
     + write note 
     

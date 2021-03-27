@@ -28,6 +28,7 @@ date: 2012-03-19
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
 
+* [I Love You But I'm Not in Love with You](https://book.douban.com/subject/35332781/) 
 * [Illimitable Men](https://illimitablemen.com/archives/)   
 
 * [The Cashflow Quadrant](https://book.douban.com/subject/1817043/) by C.P.A. Robert T. Kiyosaki with Sharon L. Lechter  
