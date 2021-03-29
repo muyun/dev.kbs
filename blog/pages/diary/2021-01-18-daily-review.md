@@ -12,6 +12,32 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2021-03-29
+  * prepare for the driver test
+
+  * read ch3 <I love you but I'm Not in love with you>
+
+  * fun
+    - got up around 8:30am
+    - see a beatutiful girl's back
+      + kind of freeddom
+    - **rows** are good in the relationship
+
+
+  * TODO
+    - to be honest about and engage with **feelings**
+    - try other food
+    - add oil
+
+#### 2021-03-29 - 2021-04-05
+  * the driver test
+
+  * connect with Ivy
+
+  * programming skills
+
+  * language skills
+
 
 #### 2021-03-18
   * TODO
