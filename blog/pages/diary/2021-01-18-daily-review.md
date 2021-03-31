@@ -12,6 +12,37 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2021-03-31
+  * programming
+      - make the scheme can run on vscode
+          +  good
+      -  read ch1 of <the little schemer>
+
+  * language
+      - watch 2 episodes of <friends>
+
+  * DONE
+      - repay the money to zhuzhixia
+          + don't like her words
+      - apply for the 深圳社保卡
+
+  * TOIMPROVE
+      - get up earlier (around 8:00pm)
+
+  * FUN
+      - glad to see that my flower is blooming
+      - foguo at dinner is so delicious
+
+
+#### 2021-03-30
+  * so sad not to pass the driver exam
+  * read the articles on girls
+    - girls hope to be **liked and desired(wanted)**
+    - women care more about approval, attention, validation, fitting-in and being liked
+    - **approved and praised** is that 'feel right' to women
+    - 理想的男性通常是 **自信， 坚定，随和， 心思细腻**，没有攻击性的
+
+
 #### 2021-03-29
   * prepare for the driver test
 
