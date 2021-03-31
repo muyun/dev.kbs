@@ -7,6 +7,16 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S05E02
+> okay, Ross, **I'm really trying to tell you something**(我说正经的) here.
+> I'm just going to say it .
+>
+> "**I'm still in love with you, Ross**."
+> **I'm not sure what to do with that** right now.  (我现在不知道怎么回答)
+> was that a joke?
+> Do u think **you could just forget that I told you this**?
+
+
 #### S04E20
 > Do u have a minute?
 > Yeah. I was just about to take a break anyway.
@@ -14,7 +24,7 @@ abstract: "notes about TV shows like 'Friends' "
 > And **I was jut wondering how you were**.
 > **I just wanted to check**.
 > You are great. and I know someday this will happen for u too.
-
+>
 > **You know what would make me happy?**
 > **if the four of us could all, you know, hang out together.**
 > what do u say we all have dinner, say sunday night?
@@ -47,8 +57,6 @@ Emily **convinced me to** do it. (说服做)
 > ross has some big thing to tell everyone.
 >
 > we know it's a bit hasty, but it just feels so right.
-
-
 
 
 
@@ -107,4 +115,4 @@ Let me get it straight.
 
 
 #### reference
-* [老友记第四季](https://gimy.co/eps/20622-1-18.html)
+* [老友记第五季](https://gimy.app/eps/20621-1-2.html)
