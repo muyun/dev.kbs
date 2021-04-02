@@ -12,6 +12,37 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2021-04-03
+  * TODO
+    - scheme programming
+      + read ch2 and ch3 the <the little schemer>
+
+    - about love
+      + read ch4 <I love you but>
+
+    - practice my language: Enligh and Catnonese
+
+    - apply for the driver test
+
+#### 2021-04-02
+  * get up around 9:30am
+
+  * see a movie <soul>
+    - "how to have your life?"
+    - enjoy your every moment
+
+  * watch <friends>  shows
+
+  * TOIMPROVE
+    - find that it's a bit hard for you to like to argue with others
+
+  * DONE
+    - finish my chengdu ID card
+
+  * FUN
+    - wonderful to see there are two flowers blooming here
+
+
 #### 2021-03-31
   * programming
       - make the scheme can run on vscode
