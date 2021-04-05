@@ -2,7 +2,7 @@
 #### note  
 
 #### 2020-03-19  
-* TODO 
+* TODO Features 
   - url_for issue for blueprint 
     + fixed 
   - check blueprint and react 
@@ -41,8 +41,12 @@
 
     + Q&A interviews 
 
-  
-* FIX the front-end issues  
+* issues   
+  - FIX the front-end issues  
+
+  - markdown <space> issues 
+
+  - include lines of code 
 
 #### 2020-03-18  
 
