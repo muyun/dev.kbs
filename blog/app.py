@@ -3,8 +3,10 @@ import os
 from flask import Flask,render_template_string
 from flask_flatpages import FlatPages, pygments_style_defs
 from flask_flatpages.utils import pygmented_markdown
-#from flaskext.markdown import Markdown
-from flask_mistune import Mistune, markdown
+from flaskext.markdown import Markdown
+#from flask_mistune import Mistune
+#import markdown
+#import markdown.extensions.fenced_code
 pages = FlatPages()
 
 def my_renderer(text):
@@ -29,7 +31,7 @@ def pygments_css():
     return pygments_style_defs('tango'), 200, {'Content-Type': 'text/css'}
 
 app.config['FLATPAGES_HTML_RENDERER'] = my_renderer
-Mistune(app, extensions=['fenced_code'])
+Markdown(app, extensions=["fenced_code"])
 pages.init_app(app)
 
 import blog
