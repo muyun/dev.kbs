@@ -45,6 +45,8 @@
   - FIX the front-end issues  
 
   - markdown <space> issues 
+    + use flask-mistune pkg 
+    + TO IMPROVE 
 
   - include lines of code 
 
