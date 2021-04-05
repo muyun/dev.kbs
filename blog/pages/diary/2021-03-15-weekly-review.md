@@ -6,6 +6,52 @@ comments: true
 categories: [diary]
 ---
 
+#### 2021-04-05 - 2021-04-11
+
+* connect with Ivy
+
+* reading
+   - finish <I love you but>
+   - write a review
+
+   - finish <the little scheme>
+
+   - begin <lisp in small pieces>
+
+* doing exercise
+
+* language improvement
+
+#### 2021-03-29 - 2021-04-04
+
+* didn't pass the driver test
+   - enroll the driver courses
+
+* read <I love you but i'm Not in love with you>
+   - SO GOOD
+   - the love phases
+   - arguring is good
+   - the same love language
+
+* read <the little schemer>
+
+* language
+   - interesting to watch TV shows <friends>
+
+* GOOD
+   - so glad to hear from Ivy, I like her indeedly
+   - my flower is blooming
+   - watch the movie <soul>
+     + enjoy every moment in life
+   - playing badmintorn is wonderful
+
+* SELF
+   - it's good to build the connection with people
+
+
+* DONE
+   - finish the chengdu ID card
+
 
 #### 2021-03-22 - 2021-03-28
 

@@ -12,6 +12,22 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2021-04-05
+  * finish the book <I love you but>
+    - write a review
+
+  * language improvement
+
+#### 2021-04-04
+  * GOOD
+    - wonderful to play badminton
+    - emotion/feeling is so powerful
+    - relationship is also important
+
+  * TOIMPROVE
+    - should get up around 8:00am
+    - focus a bit actually
+
 #### 2021-04-03
   * TODO
     - scheme programming
