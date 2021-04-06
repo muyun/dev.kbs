@@ -105,31 +105,32 @@ tags: love, notes, softskills, summary, learning,
       compliments, outgoing, reliable
 
     - **list the petty things** about your partner that irritate you
-    **why these issues get** your goat?
-    **what memories does each bad habit bring back**?
-    your parents or your previous partner or your colleages say about these?
+        + **why these issues get** your goat?
+        + **what memories does each bad habit bring back**?
+        your parents or your previous partner or your colleages say about these?
 
     - **pinpoint the hidden 80% of current issues**
-    think back to your childhood, and your earlier memory,
+        + think back to your childhood, and your earlier memory,
     **how did u feel** about the details?
 
     - your beliefs or personality come from somewhere:
-    our upbringing, religion, general culture or the media
-    **how much these sayings has marked your personality or view of the world?**
+        + our upbringing, religion, general culture or the media
+        + **how much these sayings has marked your personality or view of the world?**
     how many of the current issues with your partner are built on these opinions?
 
 *  **Be emotionally Honest**
     - **integrity and generally tell each other the truth**
     - **list the feelings**:
-    shock - surprise, confusion, amazement
-    anger - rage, resent, frustration, impatience
-    sadness - disappointment, hurt, despair, grief
-    fear  - anxiety, worry, insecure, panic, jealousy, guilt, shame
-    love  - acceptance, admiration, appreciation, gratitude, relief, empathy, compassion
-    disgust - contempt, disdain, scorn
-    happiness - fulfilling, satisfaction, pleasure, contentment, amusement
+        + shock - surprise, confusion, amazement
+        + anger - rage, resent, frustration, impatience
+        + sadness - disappointment, hurt, despair, grief
+        + fear  - anxiety, worry, insecure, panic, jealousy, guilt, shame
+        + love  - acceptance, admiration, appreciation, gratitude, relief, empathy, compassion
+        + disgust - contempt, disdain, scorn
+        + happiness - fulfilling, satisfaction, pleasure, contentment, amusement
 
-    - **write down any feeling you experienced**, especially uncomfortable ones     + **am I experiencing feeling from each category? why?**
+    - **write down any feeling you experienced**, especially uncomfortable ones
+        + **am I experiencing feeling from each category? why?**
         + "**I feel ...**"
         + **Feeling come from our body, we have a physical reaction**;
         heat beating faster, trembling, a tightening of the chest
