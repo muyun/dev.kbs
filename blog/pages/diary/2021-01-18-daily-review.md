@@ -12,11 +12,27 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+
+#### 2021-04-06
+  * finish the draft part "I love you but"
+
+  * practice your language
+
 #### 2021-04-05
   * finish the book "I love you but"
     - write a review
+    - finish what I cared and finish ch1
 
   * language improvement
+    - a bit
+
+  * modify the markdown in blog
+    - a bit hard, check more
+
+  * GOOD
+    - get up around 9:30am
+    - fowo at dinner is wonderful
+    - build the connections is more important for you
 
 #### 2021-04-04
   * GOOD
