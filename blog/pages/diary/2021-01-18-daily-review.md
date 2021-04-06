@@ -13,10 +13,39 @@ categories: [diary]
   * TODO
 
 
+#### 2021-04-07
+  * reflect yourself based on 'I love you but'
+    - your dream
+    - your personality
+    - your pleasure
+    -  your feeling
+    - daily route
+    - your dream
+
+  * check your relationship belief
+    - your upbringing, culture or media ?
+    - how much the sayings has marked your personality or view of the worldk
+
+
+  * read ch2/3 <the little schemer>
+
 #### 2021-04-06
   * finish the draft part "I love you but"
+    - finish the draft one
 
   * practice your language
+    - watch two episodes "friends"
+
+  * self
+    - I feel fulfilling when I finished my daily plan today
+    - I feel happy when I watch friends shows.
+      + Monica is so angry because her boyfriend chandler argues with her about the
+      babies and familes issues; chandler doesn't know how to fix the issues, and thus
+      he proposes to her, and she forgives this unreasonable actions.
+
+  * events
+    - Google win in 10-year oracle court battle, this is a copywright win in IT industry
+    - TOCHECK MORE
 
 #### 2021-04-05
   * finish the book "I love you but"

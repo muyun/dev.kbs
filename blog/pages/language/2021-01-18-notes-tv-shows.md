@@ -7,6 +7,17 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S05E15
+> I'm still not done **wanting to talk to you**.
+> Just tell me **what I need to do to make things right**.
+>
+> **I need to talk to you**.  I've been doing a lot of thinking about us.
+> I want you to take just a minute, and
+> and i want you to think about how ridiculous this sounds.
+>
+
+**you don't have to be so mean about it**. (不必这么凶)
+
 #### S05E02
 > okay, Ross, **I'm really trying to tell you something**(我说正经的) here.
 > I'm just going to say it .
