@@ -12,6 +12,14 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2021-04-08
+  * read ch2/3 <the little schemer>
+
+  * read <Mastery>
+
+  * read <Rework>
+
+  * practice languages
 
 #### 2021-04-07
   * reflect yourself based on 'I love you but'
@@ -21,13 +29,21 @@ categories: [diary]
     -  your feeling
     - daily route
     - your dream
+    - CHECK: finish the part
 
   * check your relationship belief
     - your upbringing, culture or media ?
-    - how much the sayings has marked your personality or view of the worldk
-
+    - how much the sayings has marked your personality or view of the world
+    - TODO
 
   * read ch2/3 <the little schemer>
+    - finish a bit
+
+  * attend the meetup
+    - so glad to chat with new people
+
+  * write your feelings
+    - I feel happy to chat with new people, different views
 
 #### 2021-04-06
   * finish the draft part "I love you but"

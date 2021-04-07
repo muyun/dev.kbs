@@ -13,20 +13,21 @@ date: 2012-03-19
 
 
 #### reading-2021  
-* [I Love You But I'm Not in Love with You](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (9/10) (note:)  
-
-* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear   
-* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard 
+* [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (9/10)  
 
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen 
+* [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried, David Heinemeier Hansson  
+* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard 
+* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear   
+
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
-
-* [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker 
 
 * [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
 * [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton  
 
+* [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman    
+* [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner    
 
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
 
@@ -34,11 +35,8 @@ date: 2012-03-19
 
 * [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners?from_search=true&from_srp=true&qid=TzUuGOAZOA&rank=1) by James Joyce   
 * [流言](https://book.douban.com/subject/1980436/) by 張愛玲  
-* [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman    
-* [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner    
+
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
-
-
 
 
 * [Illimitable Men](https://illimitablemen.com/archives/)   
@@ -50,6 +48,7 @@ date: 2012-03-19
 * [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier  
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  
 * [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (note: some pragmatic sharing working experience) (9/10) 
+* [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker 
 
 
 #### training-2020   

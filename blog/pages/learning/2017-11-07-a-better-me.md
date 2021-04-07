@@ -37,6 +37,30 @@ abstract: "!![Updating] A better me - to be great man"
 
 
 #### self-analysis
+  * **your dream and your pleasure**
+    -  Dreams
+      + Dreams feed your soul and express who you are,
+      +  you just enjoying yourself, whether you do something well, badly is unimportant
+      +  anything is possible
+
+    - which kind of life would you like?
+      + work-life balance, creative and growth, happy
+          - time reading, sweet families, a bit relax, and challenging
+    - where would u like to live?
+      + more nature, flowing or multi-cultural crowds, creative
+    - what work would u like to do?
+      + business - money making, bit freedom, creative, challenging, helping, and growth
+
+    - what kind of relationship would u like to have?
+      + compromise, cheerful, reasonable, like to grow, beautiful
+
+    - what social life, and hobbies ?
+      + helping, creative
+
+    - how to start realizing your dreams
+      + envolve your mindset and skills
+      + money firstly, than others will follow  ...
+
   * learn yourself
     - **your merits**
       + kind, reasonable, tough, open-minded, reliable
@@ -45,6 +69,7 @@ abstract: "!![Updating] A better me - to be great man"
     - **your demerits**
       + not a good listerner,  not outgoing, not cheerful, or forgiving
       + 和人打交道的能力
+      + like daydreams, and less actions
 
     - learn about yourself by studying your friends
       + honest, understanding, support
