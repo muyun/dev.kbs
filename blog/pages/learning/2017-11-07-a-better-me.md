@@ -7,48 +7,76 @@ categories: [learning]
 abstract: "!![Updating] A better me - to be great man"
 ---
 
-#### Goal -> be a **Great** man
-  * focus everything into
+### Goal -> be a **Great** man
+  * **focus on yourself firstly** and stop worrying about tomorrow
     - **Health**
-      + get physically stronger
+      + keep you in shape
+
     - **Money**
-      + aim to be financially independent
-    - **hapiness**
-    - **relationship**  like family, and friends
-    - **Purpose & Self-growth**
-    - career & work tirelessly to be better
+      + seek wealth, most things will naturally align
 
-  * Be open to growth, feedback & learning
+    - **build your family**
+      + partner
 
-  * Step back if you find yourself giving more energy than you receive
+    - **evolve your mindset**
+      +  Be open to growth, feedback & learning
+
+
+    - **build knowledge and keep you creative**
+
+
+    - friends
+      + the older & wise
+      + young future talent
+      + entrepreneurs
+      + diss losers
+
+
+  * intentional/**planned your actions**
+    - step back if you find yourself **giving more energy than you receive**
 
 
 #### self-analysis
   * learn yourself
+    - **your merits**
+      + kind, reasonable, tough, open-minded, reliable
+      + patient, insightful
+
+    - **your demerits**
+      + not a good listerner,  not outgoing, not cheerful, or forgiving
+      + 和人打交道的能力
+
     - learn about yourself by studying your friends
       + honest, understanding, support
 
-    - my advantages  <- feedback analysis
-      +
+    - your advantages  <- feedback analysis
 
-    - how do I work with myself ?
+
+    - how do u work with yourself ?
       + reading not listening
+      + book reading
+      + TODO
+        - try to chatting/learning more with insightful people
 
     - how do u study?
       + reading + chatting/learning with people
 
-    - how do I work with others?
+    - how do you work with others?
       + self
-        - **too emotional**
+        - **too emotional**, and trust the words only
         - fully trust ones, just because what they said
+        - "**energy and body language** are a much better judge of a person's intentions than
+        their words. words can be manipulated."
+        - surrounding yourself with **authentic vibes** only
         - **you firstly**
 
       + friends
         - know how to **filter out friends**
         - focus on ones with driven, happy, cheerful, high-principled
         - stay away from negative people or ones don't like you
-           +   有很重的防备心
-           +   always depress and discourage you in any way
+           + 有很重的防备心
+           + always depress and discourage you in any way
+           + losers
 
         - **step back** if you find giving your energy more than you receiving
         - don't trust the weakers, skilled and competent is the first
