@@ -7,7 +7,7 @@ categories: [home,  programming]
 abstract: "[Updating] Notes on the core ideas programming languages, especially on functional programming"
 ---
 
-#### functional programming
+#### scheme
 
 #### Standard ML
   * functional programming

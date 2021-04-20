@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes about TV shows"
-date: 2020-01-01
+date: 2021-01-01
 comments: true
 categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "

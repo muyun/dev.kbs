@@ -12,6 +12,9 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+
+
+
 #### 2021-04-08
   * read ch2/3 <the little schemer>
 
@@ -20,6 +23,9 @@ categories: [diary]
   * read <Rework>
 
   * practice languages
+
+  * review
+    - dont do these, becase of no energy
 
 #### 2021-04-07
   * reflect yourself based on 'I love you but'

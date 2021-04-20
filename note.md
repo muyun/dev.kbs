@@ -24,10 +24,13 @@
         - Done, use filter in back-end, not in front-end/jinja for it
 
     + Store and list the liked posts and search based on tags
+    
+    + A hacker news for some industry  
 
 
     + RSS feed from new posts  
         - feedparser 
+
 
     + write note 
     

@@ -7,6 +7,19 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S05E17
+> I don't think we've meeT. i'm Ross.
+> Listen. I know this may sound a little .
+> **Would u maybe wanna grab a cup of coffee sometime or** .
+> Sure, That will be nice.
+> I will give u a call.
+>
+
+> Is that what this all have been about?
+> I tell you the truth. I'm more excited about where we aree right now.
+> we pass the beginning, and **still be around each other all the time**,
+> I think that's pretty **incredible**. And the fact that this is happening all with u.  I think that's pretty exciting.
+
 #### S05E15
 > I'm still not done **wanting to talk to you**.
 > Just tell me **what I need to do to make things right**.
@@ -17,6 +30,8 @@ abstract: "notes about TV shows like 'Friends' "
 >
 
 **you don't have to be so mean about it**. (不必这么凶)
+
+
 
 #### S05E02
 > okay, Ross, **I'm really trying to tell you something**(我说正经的) here.
