@@ -1,9 +1,9 @@
 ---
 layout: post
 title: '!![Updating] A better me - to be great man'
-date: 2017-11-07
+date: 2021-04-21
 comments: true
-categories: [learning]
+categories: [learning, self]
 abstract: "!![Updating] A better me - to be great man"
 ---
 

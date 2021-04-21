@@ -13,7 +13,30 @@ categories: [diary]
   * TODO
 
 
+#### 2021-04-21
+  * tips
+    - follow **the people who you need**, lead the people who need u
+        + **if you need him/her, follow him/her**
+        + be wise enough to follow
+        + be smart enough to lead
 
+    - you can **learn through the mind and the observation**
+
+    - **think clearly** and **know what you want** is kind of success
+
+
+#### 2021-04-12 - 2021-04-18
+  * training in the insurance industry
+    - don't feel so good actually
+    - I am surround with some-not-mature and unreal persons
+    - I cannot make much money actually
+
+  * GOOD
+    - buy a suit, which is a good experience
+    - don't need to care other's emotions actually
+
+  * a bit freedom, responsibilities
+    - THINK again
 
 #### 2021-04-08
   * read ch2/3 <the little schemer>
