@@ -1,8 +1,7 @@
 
-#### TODO  
-* build my personal blog  
-  - Flask 
+#### functions 
+* A personal blog based on Flask
 
-* build my personal bookmark 
-
-* e-commerce
+* TODO
+  - a personal bookmark or newsletter service
+  -  e-commerce ?
