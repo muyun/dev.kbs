@@ -14,9 +14,10 @@ date: 2012-03-19
 
 #### reading-2021
 * [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (9/10)
+* [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (note: 8/10)  
+* [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  
+* [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen  
 
-* [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen
-* [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried, David Heinemeier Hansson (note: 9/10, insightful, and reshape some of my thinking)
 
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
