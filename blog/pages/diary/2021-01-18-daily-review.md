@@ -13,6 +13,13 @@ categories: [diary]
   * TODO
 
 
+#### 2021-04-27
+  * TODO
+    - improve your energy
+    - do more exercises
+
+
+
 #### 2021-04-21
   * tips
     - follow **the people who you need**, lead the people who need u
