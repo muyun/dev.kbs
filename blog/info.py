@@ -1,10 +1,10 @@
 from flask import Blueprint, render_template
 
 #from flask_flatpages import FlatPages
-
 bp = Blueprint('info', __name__)
 
 from app import pages
+
 
 @bp.route('/link')
 def link():

@@ -27,10 +27,9 @@
     
     + A hacker news for some industry  
 
-
-    + RSS feed from new posts  
+    + news aggregator or a community
+        - RSS feed from new posts  
         - feedparser 
-
 
     + write note 
     

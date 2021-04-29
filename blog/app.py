@@ -41,5 +41,8 @@ app.register_blueprint(blog.bp)
 import info
 app.register_blueprint(info.bp)
 
+import news
+app.register_blueprint(news.bp)
+
 #    return app
 
