@@ -1,10 +1,9 @@
----
 layout: post
 title: "Notes on The Great CEO Within"
 date: 2020-04-13
 comments: true
 categories: [notes, starup, management, work]
----
+
 
 #### The Beginning
 * **Make Money, Have Fun, Do Good**

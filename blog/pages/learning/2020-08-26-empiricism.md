@@ -1,11 +1,10 @@
----
 layout: post
 title: "About Empiricism"
 date: 2020-08-26
 comments: true
 categories: [learning,notes]
 abstract: "About Empiricism"
----
+
 
 
 #### Empiricism  

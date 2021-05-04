@@ -1,10 +1,9 @@
----
 layout: post
 title: "Updating Diary summary"
 date: 2017-12-07
 comments: true
 categories: [diary]
----
+
 
 ### 记录下每天的进展 - 真的需要更加努力了
 

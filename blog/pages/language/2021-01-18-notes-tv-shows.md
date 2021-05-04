@@ -1,11 +1,10 @@
----
 layout: post
 title: "Notes about TV shows"
 date: 2021-01-18
 comments: true
 categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
----
+
 
 #### S05E17
 > I don't think we've meeT. i'm Ross.

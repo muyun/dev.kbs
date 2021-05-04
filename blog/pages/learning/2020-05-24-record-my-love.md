@@ -1,11 +1,10 @@
----
 layout: post
 title: "!Record my Love"
 date: 2020-05-24
 comments: true
 categories: [learning, love]
 abstract: "!!Record my Love with Ivy"
----
+
 
 #### 沟通和表达
  * **尊重和确认的力量**  - 对伴侣观点的关心和尊重

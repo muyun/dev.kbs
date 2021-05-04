@@ -1,10 +1,9 @@
----
 layout: post
 title: "Updating-on-engineering"
 date: 2020-04-29
 comments: true
 categories: [learning, engineering, course]
----
+
 
 #### Notes on software engineering
   * 软件工程 = 过程 + 方法 + 工具

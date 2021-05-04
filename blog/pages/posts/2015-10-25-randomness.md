@@ -1,11 +1,10 @@
----
 layout: post
 title: "Randomness as a source of efficiency"
 date: 2015-11-05
 comments: true
 categories: [algorithms]
 abstract: "Randomization of a part of the control is an essential concept of nature's strategy."
----
+
 
 > Randomization of a part of the control is an essential concept of nature's strategy.
 

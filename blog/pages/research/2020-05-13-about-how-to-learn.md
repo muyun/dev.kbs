@@ -1,11 +1,10 @@
----
 layout: post
 title: "Notes on Learning How to Learn"
 date: 2020-05-13
 comments: true
 categories: [learning, notes,research]
 abstract: 'Notes on Learning How to Learn, and List Some Interesting Questions'
----
+
 
 #### Learning How to Learn - apply the ideas
 

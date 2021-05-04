@@ -1,11 +1,9 @@
----
 layout: post
 title: "[Updating] !Notes on creativity and research"
 date: 2018-11-18
 comments: true
 categories: [learning, notes, research]
 abstract: "[Updating] !Notes on creativity and research"
----
 
 #### Notes on research
   *  research

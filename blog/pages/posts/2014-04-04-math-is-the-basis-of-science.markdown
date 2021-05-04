@@ -1,11 +1,10 @@
----
 layout: post
 title: "Math is the Basis of Science"
 date: 2014-04-04
 comments: true
 categories:  [home,  writing]
 abstract: '總結自 <a href="http://book.douban.com/subject/1118984/">[給討厭數學的人]</a>'
----
+
 
 > 總結自[《給討厭數學的人》](http://book.douban.com/subject/1118984/) 
 

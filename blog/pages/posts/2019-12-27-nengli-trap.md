@@ -1,10 +1,9 @@
----
 layout: post
 title: "能力陷阱"
 date: 2019-12-27 
 comments: true
 categories: [learning]
----
+
 
 #### chp3 - 建立良好的人际关系网路  
 

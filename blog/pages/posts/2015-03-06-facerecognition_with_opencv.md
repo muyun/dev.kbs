@@ -1,11 +1,10 @@
----
 layout: post
 title: "Summary about Face Recognition with OpenCV"
 date: 2015-03-06
 comments: true
 categories: [home,algorithms, computervision]
 abstract: "Summary about Face Recognition with OpenCV"
----
+
 
 #### Summary about Face Recognition with OpenCV ####
 

@@ -1,11 +1,10 @@
----
 layout: post
 title: "十年一覺電影夢"
 date: 2017-12-04
 comments: true
 categories: [home,  writing]
 abstract: "Notes on 《十年一覺電影夢》from 李安 (Ang Lee) "
----
+
 
 > <small>Notes on 《十年一覺電影夢》from 李安 (Ang Lee) </small>
 

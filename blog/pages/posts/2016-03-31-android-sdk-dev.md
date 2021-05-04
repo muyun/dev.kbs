@@ -1,11 +1,10 @@
----
 layout: post
 title: "Android SDK dev"
 date: 2016-03-31
 comments: true
 categories: [android, technology]
 abstract: "A share about Android NDK - build c/c++ code into shared lib app uses"
----
+
 
 ><small> A share about Android NDK - build c/c++ code into shared lib app uses </small>
 

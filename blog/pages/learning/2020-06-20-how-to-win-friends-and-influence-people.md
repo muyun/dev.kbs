@@ -1,10 +1,9 @@
----
 layout: post
 title: "Notes on how to win friends and influence people"
 date: 2020-06-20
 comments: true
 categories: [notes, softskill, summary]
----
+
 
 ##### notes  
 

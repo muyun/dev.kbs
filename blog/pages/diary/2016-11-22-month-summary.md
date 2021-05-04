@@ -1,10 +1,9 @@
----
 layout: post
 title: "month summary"
 date: 2016-11-22
 comments: true
 categories: [diary]
----
+
 
 #### work and life
   * language 还是 一个很好的方向， 期望对这个方向 做出点东西

@@ -1,11 +1,10 @@
----
 layout: post
 title: '!Upgrade My Self'
 date: 2017-11-07
 comments: true
 categories: [summary, learning, self, softskill]
 abstract: "!!Some insights about the outside"
----
+
 
 #### **methodology**  -  a set of methods and principles  
   * **Fake it and then make it**    

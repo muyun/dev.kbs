@@ -1,11 +1,10 @@
----
 layout: post
 title: "Science and Religious"
 date: 2017-11-16
 comments: true
 categories: [learning]
 abstract: ""
----
+
 
 #### reference
 * [科学的争议与骗局](http://jiangcaijian.blog.caixin.com/archives/152564)

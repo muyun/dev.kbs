@@ -1,11 +1,9 @@
----
 layout: post
 title: "!self reflection"
 date: 2018-03-09
 comments: true
 categories: [learning, summary, notes, self]
 abstract: "!Self Reflection"
----
 
 #### **自己的长处是什么** - 回馈分析法 feedback analysis
  * build on the strengths : write down the outcome you expect and compare results

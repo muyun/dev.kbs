@@ -1,11 +1,10 @@
----
 layout: post
 title: "[Updating] !! Goal: Build frameworks or strategies for a pleasure of life and career"
 date: 2020-08-20
 comments: true
 categories: [learning]
 abstract: "[Updating]  !! Goal: Build frameworks or strategies for a pleasure of life and career"
----
+
 
 #### **Goal: a pleasure of life - healthy, free, wealthy, and loved**, no influence?   
   * create **life vision**  

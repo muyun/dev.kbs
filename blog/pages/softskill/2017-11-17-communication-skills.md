@@ -1,11 +1,9 @@
----
 layout: post
 title: "Some learning about communication skills"
 date: 2017-11-17
 comments: true
 categories: [softskill, communication]
 abstract: ""
----
 
 #### communication skills  
 * balance between cooperation and competition  

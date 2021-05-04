@@ -1,11 +1,10 @@
----
 layout: post
 title: "Summary about Computer Systems from A Programmer's Perspective" 
 date: 2017-05-16
 comments: true
 categories: [home,system]
 abstract: "Summary about Computer Systems from A Programmer's Perspective"
----
+
 
 #### Optimizing Program Performance [ch5]  
  * **trade-off between how easy a program is to implement and maintain, and how fast it runs**

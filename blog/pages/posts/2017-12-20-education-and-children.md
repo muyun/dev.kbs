@@ -1,11 +1,10 @@
----
 layout: post
 title: "关于教育"
 date: 2017-12-20
 comments: true
 categories: [home, education]
 abstract: "關於教育 - 摘錄自《魔鬼老大，天使老二》"
----
+
 
 > <small>關於教育 - 摘錄自《魔鬼老大，天使老二》</small> <br/> 
 

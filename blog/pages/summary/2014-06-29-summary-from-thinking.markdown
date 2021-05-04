@@ -1,11 +1,10 @@
----
 layout: post
 title: "思考的技术"
 date: 2014-06-29
 comments: true
 categories: [summary, insight]
-abstract: '总结自 <a href="http://book.douban.com/subject/3138847/">[思考的技术]</a>'
----
+abstract: '总结自 <a href="http://book.douban.com/subject/3138847/">[思考的技术]</a>' 
+
 
 总结自[思考的技术](http://book.douban.com/subject/3138847/)
 

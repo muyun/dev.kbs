@@ -1,11 +1,10 @@
----
 layout: post
 title: "Logic Gate"
 date: 2015-10-07
 comments: true
 categories: [algorithms]
 abstract: "XOR"
----
+
 
 > <small>What is XOR? </small>
 

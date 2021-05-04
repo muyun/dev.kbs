@@ -1,11 +1,10 @@
----
 layout: post
 title: "Summary about Economics"
 date: 2014-04-09
 comments: true
 categories: [home, writing]
 abstract: '總結自 <a href="http://www.oklink.net/a/0011/1101/mgzy/003.htm">產權與交易費用</a>'
----
+
 
 
 #### notes-2020 

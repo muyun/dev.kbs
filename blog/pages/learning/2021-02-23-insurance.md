@@ -1,11 +1,10 @@
----
 layout: post
 title: "Notes on Insurance"
 date: 2021-02-23
 comments: true
 categories: [learning, insurance]
 abstract: "notes on Insurance"
----
+
 
 ##### experiences  
 

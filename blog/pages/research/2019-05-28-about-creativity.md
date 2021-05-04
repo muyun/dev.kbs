@@ -1,11 +1,9 @@
-self---
 layout: post
 title: "About creativity"
 date: 2018-05-28
 comments: true
 categories: [learning, notes, research]
 abstract: "About creativity"
----
 
 #### **self** 
   * **希望过什么样的生活**  

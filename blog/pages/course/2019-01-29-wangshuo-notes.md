@@ -1,10 +1,9 @@
----
 layout: post
 title: "DO-王烁30天认知训练"
 date: 2019-02-10
 comments: true
 categories: [learning, insight, course]
----
+
 
 ### notes
 

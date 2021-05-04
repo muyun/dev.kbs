@@ -1,11 +1,10 @@
----
 layout: post
 title: "!Manage your career"  
 date: 2016-04-03
 comments: true
 categories: [learning, softskill]
 abstract: "Some lessons about team skills"
----
+
 
 #### 向上管理  - 管理你的上司, 讓他變成你個人成功的資源  
   * 真诚 是唯一方法  

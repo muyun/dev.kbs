@@ -1,11 +1,10 @@
----
 layout: post
 title: "[Updating] Some Interesting Questions"
 date: 2020-04-30
 comments: true
 categories: [learning, research]
 abstract: 'List Some Interesting Questions'
----
+
 
 #### ideas 
  * podcast + iot device  

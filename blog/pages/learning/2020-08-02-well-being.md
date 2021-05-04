@@ -1,11 +1,10 @@
----
 layout: post
 title: "!Notes on health and well-being"
 date: 2020-08-02
 comments: true
 categories: [learning]
 abstract: "notes on health and well-being"
----
+
 
 ### being driven by noble purposes  
   

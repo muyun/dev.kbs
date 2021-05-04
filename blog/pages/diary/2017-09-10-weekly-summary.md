@@ -1,10 +1,9 @@
----
 layout: post
 title: "Weekly summary"
 date: 2017-09-10
 comments: true
 categories: [diary]
----
+
 
 * 昨天參加了廣東話班的 “極速前進”
   - 增長了一點見識 - 看到了中環的一些未知的風景

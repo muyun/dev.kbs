@@ -1,10 +1,8 @@
----
 layout: post
 title: "Summary of the RA work"
 date: 2015-11-18
 comments: true
 categories: [diary, work]
----
 
 終於完成了這份RA工作，雖然很累，但是還是有不少的收穫；
 稍微接觸到了些最科技前沿，知道professor们都在做些什么，是怎么思考一些问题的。

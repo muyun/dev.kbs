@@ -1,11 +1,9 @@
----
 layout: post
 title: "反思自己的思维偏见" 
 date: 2014-03-30
 comments: true
 categories:  [writing, learning]
 published: true
----
 
 #### 思维偏见 
 + 时间观 

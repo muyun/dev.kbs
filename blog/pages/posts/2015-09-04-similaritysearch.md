@@ -1,11 +1,10 @@
----
 layout: post
 title: "Similarity Search Algorithms"
 date: 2015-09-04
 comments: true
 categories: [home, algorithms]
 abstract: "Similarity search refers to finding objects that have similar characteristics to the query object."
----
+
 
 >Similarity search refers to finding objects that have similar characteristics to the query object. 
 

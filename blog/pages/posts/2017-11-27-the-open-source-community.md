@@ -1,11 +1,10 @@
----
 layout: post
 title: "Notes on The Open-Source Community"
 date: 2017-11-07
 comments: true
 categories: [home, programming, system]
 abstract: "Notes on The Open-Source Community"
----
+
 
 #### Unix Standards 
 

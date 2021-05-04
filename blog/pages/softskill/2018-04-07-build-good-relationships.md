@@ -1,10 +1,8 @@
----
 layout: post
 title: "!!Build good Relationships"
 date: 2020-03-24
 comments: true
 categories: [softskill, relationship]
----
 
 #### Self  
 

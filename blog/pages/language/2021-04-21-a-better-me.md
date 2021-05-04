@@ -1,11 +1,10 @@
----
 layout: post
 title: '!![Updating] A better me - to be great man'
 date: 2021-04-21
 comments: true
 categories: [learning, self]
 abstract: "!![Updating] A better me - to be great man"
----
+
 
 ### Goal -> be a **Great** man
   * **focus on yourself firstly** and stop worrying about tomorrow

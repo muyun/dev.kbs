@@ -1,11 +1,10 @@
----
 layout: post
 title: "尋路中國(Country Driving)"
 date: 2014-12-05
 comments: true
 categories: [writing, china]
 abstract: '總結自 Peter Hessler的<a href="http://book.douban.com/subject/5414391">[尋路中國(Country Driving)]</a>'
----
+
 
 断断续续的看完了Peter Hessler的[<尋路中國(Country Driving)>] [1],才意识到对这快速发展,魔幻现实的国度失去了太多感觉, 要是早些看到就好了。
 

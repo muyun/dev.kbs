@@ -12,8 +12,10 @@
         - fix it basically  
     + on cloud 
         - [mykbs on pythonanywhere](http://muyun.pythonanywhere.com/) 
-        - pythonanywhere is for hackers/engineers
-    
+        - pythonanywhere is for hackers/engineers  
+            + cannot support RSS feed from 3rd parties  
+        - Deploy [betareader](https://betareader.herokuapp.com/) on heroku  
+            
     + tags, Clicking a tag shows all the posts with that tag.
         - DONE   
         - fix the file format issues  
@@ -44,6 +46,10 @@
     + Q&A interviews 
 
 * issues   
+
+  - Deploy [betareader](https://betareader.herokuapp.com/) on heroku  
+    + > git push heroku master  
+
   - FIX the front-end issues  
 
   - markdown <space> issues 

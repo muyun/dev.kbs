@@ -1,11 +1,10 @@
----
 layout: post
 title: "notes on business english"
 date: 2020-06-08
 comments: true
 categories: [notes, language, learning]
 abstract: "notes on business english"
----
+
 
 #### 2020-06-06  
 

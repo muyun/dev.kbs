@@ -1,11 +1,10 @@
----
 layout: post
 title: "Summary about Probability and Statistics"
 date: 2017-06-04
 comments: true
 categories: [home,algorithms]
 abstract: "[updating] Summary about Probability and Statistics"
----
+
 
 > [updating] A Summary about Probability and Statistics 
 

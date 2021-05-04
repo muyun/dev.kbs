@@ -1,11 +1,10 @@
----
 layout: post
 title: "DO-诺言课程"
 date: 2019-02-18
 comments: true
 categories: [learning, insight, course]
 abstract: '关于自我成长'
----
+
 
 ### 2019-12-05  - 思维方式  
   * 本质思维 - **做具体选择时**  

@@ -1,10 +1,9 @@
----
 layout: post
 title: "On English Writing"
 date: 2020-01-14
 comments: true
 categories: [language, writing]
----
+
 
 #### writing in english  
 

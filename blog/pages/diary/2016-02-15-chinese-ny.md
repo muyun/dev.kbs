@@ -1,10 +1,9 @@
----
 layout: post
 title: "新年胡思乱语"
 date: 2016-02-15
 comments: true
 categories: [diary]
----
+
 
 过年是个很快乐的日子，毕竟有亲人的陪伴；可怜天下父母心。
 

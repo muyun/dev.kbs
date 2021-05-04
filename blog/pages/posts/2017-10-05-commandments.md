@@ -1,11 +1,10 @@
----
 layout: post
 title: "The Paradoxical Commandments by Kent M. Keith"
 date: 2017-10-05
 comments: true
 categories: [notes]
 abstract: "The Paradoxical Commandments by Kent M. Keith"
----
+
 
 'What you spend years building may be destroyed overnight.  
  Build anyway .'  

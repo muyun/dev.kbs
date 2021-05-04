@@ -1,11 +1,9 @@
----
 layout: post
 title: My Daily thoughts
 date: 2017-06-26
 comments: true
 categories: summary, self
 published: true
----
 
 #### [Add the lists](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2017-06-26-mythoughts.md)  
 

@@ -1,10 +1,9 @@
----
 layout: post
 title: "Weekly Review"
 date: 2020-01-03
 comments: true
 categories: [diary]
----
+
 
 #### list my priorities
 - health

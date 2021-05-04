@@ -1,11 +1,10 @@
----
 layout: post
 title: "[Updating] The Pragmatic Programming"
 date: 2019-08-16
 comments: true
 categories: [learning, programming]
 abstract: "[Updating] The Pragmatic Programming"
----
+
 
 #### ch7 Before the project 
 * digging for requirements 

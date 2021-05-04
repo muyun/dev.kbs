@@ -1,11 +1,9 @@
----
 layout: post
 title: "Quote some biases"
 date: 2015-12-14
 comments: true
 categories: [summary, biase, self]
 abstract: "quote some biases"
----
 
 
 > <font color="#800080">桑德伯格认同谷歌的使命， 并且不计较职位，于是得到了这个机会。 </font>
