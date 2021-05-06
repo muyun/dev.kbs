@@ -4,7 +4,8 @@ from flask import Blueprint, render_template
 bp = Blueprint('news', __name__)
 
 RSS_FEEDS = {
-    'Paul Graham': 'http://www.aaronsw.com/2002/feeds/pgessays.rss'
+    'Paul Graham': 'http://www.aaronsw.com/2002/feeds/pgessays.rss',
+    #'acmqueue': 'https://queue.acm.org/rss/feeds/articles.xml'
 }
 
 @bp.route('/news')

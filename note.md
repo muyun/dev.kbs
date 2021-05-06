@@ -30,7 +30,7 @@
     + A hacker news for some industry  
 
     + news aggregator or a community
-        - RSS feed from new posts  
+        - RSS feed from new posts or papers  
         - feedparser 
 
     + write note 
@@ -45,10 +45,13 @@
 
     + Q&A interviews 
 
+    + in txt, video format ?  
+
 * issues   
 
   - Deploy [betareader](https://betareader.herokuapp.com/) on heroku  
-    + > git push heroku master  
+    + > cd blog  
+      > git push heroku master  
 
   - FIX the front-end issues  
 
