@@ -10,6 +10,7 @@ date: 2012-03-19
 * [6.033 Computer System Engineering](http://web.mit.edu/6.033/www/general.shtml)
 * [Digital Product Management: Modern Fundamentals](https://www.coursera.org/learn/uva-darden-digital-product-management/home/welcome)
 * [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)
+* [Open Source Software Development Methods](https://www.coursera.org/learn/open-source-software-development-methods/home/welcome)
 
 
 #### reading-2021

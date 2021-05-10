@@ -1,6 +1,21 @@
 
 #### note  
 
+#### 2021-05-06  
+* ideas  
+  - begin from Landing page  
+
+  - A network of microblogs where you can control your content. 
+      + NO Ads, NO harassment, and fake news.
+      + [microblog](https://micro.blog/)  
+  
+  - a network of bookmark or newsletter service  
+  - e-commerce ?  
+
+* my team  
+  - an artisanal crafting team  
+      + [SHINY FROG](https://shinyfrog.net/)
+
 #### 2020-03-19  
 * TODO Features 
   - url_for issue for blueprint 
@@ -80,7 +95,6 @@
   - organize server into distince components 
     + add blueprint    
   
-
 * reference
   - [react-flask](http://allynh.com/blog/adding-a-react-frontend-to-your-flask-project/)
 

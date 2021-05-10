@@ -12,7 +12,28 @@ categories: [diary]
   * TODO
 
 
+#### 2021-05-10
+  * improve your focuses and efficience
+    - more goals, and less on news
+
+  * I find that I miss Ivy
+    - She is so connected with me
+
+  * TOIMPROVE
+    - improve your body, mindset, mental, finance each day
+        + stop negative self-talks
+    - learn the persuasion skills
+    - work hard towards your goals
+
+#### 2021-05-07
+  * find your passions or goals
+    - build a business/startup
+    - learn new knowledge
+
+
 #### 2021-05-06
+  * try hard in life
+
   * TOIMPROVE
     - learn the new knowledge
     - turn knowledge / idea into business

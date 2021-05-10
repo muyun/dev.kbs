@@ -30,14 +30,16 @@ date: 2012-03-19
 #### CHECK
 * **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)** 
 * **[Patrick Collison](https://patrickcollison.com/)**  
-* [Blog Surf](https://dkb.io/)
-* [Paul Graham](http://www.paulgraham.com/articles.html)
+* **[Tania Rascia's frontend](https://www.taniarascia.com/blog)**  
+* **[Thoughts on programming](https://henrikwarne.com/)**  
+* [Blog Surf](https://dkb.io/)  
+* [Paul Graham](http://www.paulgraham.com/articles.html)  
 * **[Cate](https://cate.blog/about/)**  
 * **[Kate Matsudaira](http://katemats.com/about/)**  
-* [Tracy Chou's blog](https://triketora.com/)
-* [Niniane](http://niniane.blogspot.hk/)
-* [programming in the twenty-first century](http://prog21.dadgum.com/)
-* [bast.bookmarks](https://bast.fr/bookmarks/)
+* [Tracy Chou's blog](https://triketora.com/)  
+* [Niniane](http://niniane.blogspot.hk/)  
+* [programming in the twenty-first century](http://prog21.dadgum.com/)  
+* [bast.bookmarks](https://bast.fr/bookmarks/)  
 
 
 #### tech
