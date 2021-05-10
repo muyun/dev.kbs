@@ -1,4 +1,6 @@
 #### functions 
-* a network of  blog service which you can control
+* A network of blog service where you can control your content 
+* features 
+  - TODO 
 
 
