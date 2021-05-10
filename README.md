@@ -1,4 +1,4 @@
 #### functions 
-* a private blog service  
+* a network of  blog service which you can control
 
 
