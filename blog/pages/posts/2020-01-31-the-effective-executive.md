@@ -6,11 +6,10 @@ categories: [home, writing, softskill]
 abstract: "About how to get the right things done"
 
 
-
 In the book [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1/ref=sr_1_1?keywords=the+effective+executive&qid=1580796275&sr=8-1), Peter F. Drucker guides on how to be **executive self-management**, so that we could "**get the right things done**" .   
 
 #### note-2020 
-This note is mainly  based on the context of western culture   
+This note is mainly  based on the context of western (Anglo-America especially) culture   
 
 
 #### to effect  - **get the right things done** 

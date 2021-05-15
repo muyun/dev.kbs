@@ -46,8 +46,8 @@ because the height of a complete binary tree of size N is lgN.
 
  
 The basic algorithm swim (bottom-up reheapify) moves up the heap until we reach a node with a larger key, or the root; The function swim(int k)
-
-``` java 
+<div class="codehilite"><pre><code>
+:::java
 //the parent of the node at position k in a heap is at position k/2
 private void swim(int k){
     while(k > 1 && less(k/2, k)){  //the node's key larger than parent's key
@@ -55,10 +55,11 @@ private void swim(int k){
         k = k/2;
     }
 }
-```
-The sink algorithm movs down the heap until we reach a node with both children smaller(or equal,) or the bottom; The function sink(int k)
+</code></pre></div>
 
-```java 
+The sink algorithm movs down the heap until we reach a node with both children smaller(or equal,) or the bottom; The function sink(int k)
+<div class="codehilite"><pre><code>
+:::java 
 //the children of the node at position k in a heap are at positions 2k and 2k+1
 private void sink(int k){
     while(2*k <= N){
@@ -69,20 +70,22 @@ private void sink(int k){
         k = j;
     }
 }
-```
+</code></pre></div>
+
 The insert algorithm requires no more than 1 + lgN compares, which involving **moving along a path between the root and the bottom of the heap** whose number of links is no more than lgN; the function insert(key x)
 
-```java 
+<pre class="codehilite"><code>
+:::java 
 public void insert(Key x){
     pq[++N] = x;
     swim(N);     //swim up through the heap
 
 }
-```
+</code></pre>
 
 The heap algorithms require no more than 2lgN compares for remove the maximum; The operation involves moving the heap path no more than lgN, and it requires two compares for each node on the path (except at the bottom): one to find the child with larger key, the other to decide whether that child needs to be promoted; The function delMax()
-
-```java 
+<pre class="codehilite"><code>
+:::java 
 public Key delMax(){
     Key max = pq[1]; //the largest key off the top
     exch(1, N--);    //exchange the last one with root
@@ -91,7 +94,7 @@ public Key delMax(){
 
     return max;
 }
-```
+</code></pre>
 
 #### Performance Analysis:
 For typical applications that **require a large number of intermixed insert and remove the maximum/min operations** in a large priority queue, the elementary implementations using an ordered array or an unordered array require linear time for one of the operations, a heap-based implementation provides a guarantee that both operations complete in **logarithmic time**.

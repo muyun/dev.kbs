@@ -20,33 +20,24 @@ date: 2012-03-19
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen  
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
-
-* [The Sovereign Individual](https://hk1lib.org/book/12671001/4d71c1)
+* [500 Lines or Less](http://aosabook.org/en/index.html)
+* [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel
 
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
-
-
-* [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel
-* [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton
-
-* [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman
-* [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner
-
-* [500 Lines or Less](http://aosabook.org/en/index.html)
-
 * [Getting Things Done](https://book.douban.com/subject/1316569/) by David Allen
 
+* [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.
+* [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton
+* [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman
+* [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner
 * [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners?from_search=true&from_srp=true&qid=TzUuGOAZOA&rank=1) by James Joyce
 * [流言](https://book.douban.com/subject/1980436/) by 張愛玲
 
-* [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.
-
-
+* [The Sovereign Individual](https://hk1lib.org/book/12671001/4d71c1)
 * [The Cashflow Quadrant](https://book.douban.com/subject/1817043/) by C.P.A. Robert T. Kiyosaki with Sharon L. Lechter
 
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇
-
 * [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )
 * [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (note: some pragmatic sharing working experience) (9/10)

@@ -31,7 +31,7 @@ def pygments_css():
     return pygments_style_defs('tango'), 200, {'Content-Type': 'text/css'}
 
 app.config['FLATPAGES_HTML_RENDERER'] = my_renderer
-Markdown(app, extensions=["fenced_code"])
+Markdown(app, extensions=['fenced_code','codehilite', 'tables', 'mdx_math'])
 pages.init_app(app)
 
 import blog

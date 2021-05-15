@@ -1,5 +1,8 @@
 #### note  
 
+#### 2021-05-15  
+* DOM - Document Object Model  
+
 #### 2021-05-06  
 * ideas  
   - A network of microblogs where you can control your content. 
@@ -64,6 +67,8 @@
     + in txt, video format ?  
 
 * issues   
+
+  - the Code/math display on web 
 
   - Deploy [betareader](https://betareader.herokuapp.com/) on heroku  
     + > cd blog  

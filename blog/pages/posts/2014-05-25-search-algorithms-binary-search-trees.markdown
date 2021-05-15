@@ -20,7 +20,8 @@ keys in its right subtree.
 A Node is comprised of four fields: a key and a value; a reference to
 the left (smaller keys) and right subtree (larger keys).
 
-~~~ java
+<div class="codehilite"><pre><code>
+:::java
 private class Node {
         private Key key;   
         private Value val;
@@ -32,12 +33,13 @@ private class Node {
            this.val = val;
         }
  }
-~~~
+</code></pre></div>
+
 ####The Implementation:
 
 The search use the recursive algorithm to search for a key, the function get()
-
-~~~ java
+<div class="codehilite"><pre><code>
+:::java
 public void get (Key key){
     return get(root, key);  //starting with the root of the tree
 }
@@ -53,12 +55,12 @@ private Value get(Node x, Key key){
     else
         return x.val;
 }
-~~~
+</code></pre></div>
 
 The insert put key-value pair into BST, if key already exists, update
 with new value, the function put()
-
-~~~ java
+<div class="codehilite"><pre><code>
+:::java
 public void put(Key key, Value val){
     put(root, key, val);
 }
@@ -77,7 +79,9 @@ private Node put(Node x, Key key, Value val){
 
     return x;
 }
-~~~
+</code></pre></div>
+
+
 #### Performance Analysis:
 
 The running times depend on the shapes of the trees, which depends on the **order in which the

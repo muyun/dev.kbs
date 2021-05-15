@@ -10,7 +10,7 @@ abstract: "There is much wisdom in the words of Friedrich Nietzsche: 'He who has
 </small> 
 
 
-Man's search for **meaning** always is the primary motivation in his life. This meaning is unique and specific in that it must and can be fulfilled by **him alone**.  
+Man's search for **meaning** (purpose) always is the primary motivation in his life. This meaning is unique and specific in that it must and can be fulfilled by **him alone**.  
 
 Man should not ask what the meaning of his life is, but rather he must recognize that it is **he** who is asked. In a word, each man is questioned by life; and he can only answer to life by **answering for his own life**; to life he can only respond **by being responsible**. The Author logotherapy sees **in responsibleness** the very essence of human existence.  
 

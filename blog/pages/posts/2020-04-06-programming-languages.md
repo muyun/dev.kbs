@@ -2,7 +2,7 @@ layout: post
 title: "Notes on programming language"
 date: 2021-02-06
 comments: true
-categories: [home,  programming]
+categories: [programming]
 abstract: "[Updating] Notes on the core ideas programming languages, especially on functional programming"
 
 

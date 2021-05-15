@@ -2,8 +2,9 @@
 <html lang="en">
 <title> {% block title %}{% endblock %} - Raymond ZHAO WENLONG</title>
 <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-<link rel="stylesheet" href="{{ url_for('pygments_css')}}">
-
+<link rel="stylesheet" href="{{ url_for('static', filename='pygments_css.css') }}">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js">
+</script>
 <nav>
     <h1><small><a href="{{ url_for('blog.index')}}">Raymond ZHAO WENLONG</a></small></h1>
     <ul>
@@ -46,7 +47,7 @@
 
     <div class="footer">
     <ul>
-        <small>&copy; Copyright 2021</small> 
+        <small>&copy; zhaowenlong 2021</small> 
     </ul>
   </div>
 
