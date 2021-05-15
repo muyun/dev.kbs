@@ -18,13 +18,14 @@ date: 2012-03-19
 * [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (8/10)  
 * [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (9/10)  
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen  
+* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
 
+* [The Sovereign Individual](https://hk1lib.org/book/12671001/4d71c1)
 
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 
-* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec
-* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
 
 * [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel
 * [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton

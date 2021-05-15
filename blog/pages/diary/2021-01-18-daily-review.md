@@ -11,43 +11,107 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2021-05-11
+* **SELF Management**
+    - know your strengths <- feedback analysis
+        + study at schools
+            - book studies, less practical intelligence
+            - good independent thinking, and don't care the compare:  math, physics, history
+            - not a good team member
+
+        + work as an engineer
+            - like learning, always try to improve myself
+            -
+            - don't like to modify the work from the others
+            - don't like the rule in big chinese company
+            - 反叛，正直，kind, 朴实，欣赏才华，不贪钱
+            - 平视
+            - less practical intelligence
+            - friends ?
+
+        + work as a RA in the universities
+            - a kind & good mentor is so important
+            - take your responsibilities
+
+        + what you cannot do ?
+
+    - know how do u work
+        + reader not a listening
+
+    - how do u learn
+        + reading/writing  -> practice
+        + chat from others
+
+    - how do u work with others?
+        + work independently, and communicate with each others
+        + or work in a team?
+
+    - Do u like make decisions or a mentor?
+        + can u take the burden and pressures  or have a mentor to make u think more?
+
+    - Do u work best in a fast-changing env or a preditable one?
+        + a preditable one actually?  - I like a plan one
+
+
+* issues
+    - annoyed by the negative emotions from the previous colleges
+        + don't give more to earn the respect
+        + don't know how to protect self
+        + didn't know to build good vibes
+
+    - lessons - **practical intelligence**
+        + most people donot care the facts, but how to say it
+        + knowing what to say to whom
+        + knowing when to say it
+        + knowing how to say it max effect
+
+    - **show up** often
+        + being in the right place at the right time is also crucial
+        + your env and the people surrounding you present most of the opportunities
+        + attend as many conferences & seminars as I can
+
+    - **your goals**
+        + narrow down and define your goals
+        + who you wanna be and what you wanna do
+        + stick to your vision and immerse yourself in the env to generate most opportunities
+
 
 #### 2021-05-10
-  * improve your focuses and efficience
+* improve your focuses and efficience
     - more goals, and less on news
 
-  * I find that I miss Ivy
+* I find that I miss Ivy
     - She is so connected with me
 
-  * TOIMPROVE
+* TOIMPROVE
     - improve your body, mindset, mental, finance each day
         + stop negative self-talks
     - learn the persuasion skills
     - work hard towards your goals
 
 #### 2021-05-07
-  * find your passions or goals
+* find your passions or goals
     - build a business/startup
     - learn new knowledge
 
 
 #### 2021-05-06
-  * try hard in life
+* try hard in life
 
-  * TOIMPROVE
+* TOIMPROVE
     - learn the new knowledge
     - turn knowledge / idea into business
-       +  feedback + iteration
-       + learn from others
+        +  feedback + iteration
+        + learn from others
 
 #### 2021-04-27
-  * TODO
+* TODO
     - improve your energy
     - do more exercises
 
 
 #### 2021-04-21
-  * tips
+* tips
     - follow **the people who you need**, lead the people who need u
         + **if you need him/her, follow him/her**
         + be wise enough to follow
@@ -59,28 +123,28 @@ categories: [diary]
 
 
 #### 2021-04-12 - 2021-04-18
-  * training in the insurance industry
+* training in the insurance industry
     - don't feel so good actually
     - I am surround with some-not-mature and unreal persons
     - I cannot make much money actually
 
-  * GOOD
+* GOOD
     - buy a suit, which is a good experience
     - don't need to care other's emotions actually
 
-  * a bit freedom, responsibilities
+* a bit freedom, responsibilities
     - THINK again
 
 #### 2021-04-08
-  * read ch2/3 <the little schemer>
+* read ch2/3 <the little schemer>
 
-  * read <Mastery>
+* read <Mastery>
 
-  * read <Rework>
+* read <Rework>
 
-  * practice languages
+* practice languages
 
-  * review
+* review
     - dont do these, becase of no energy
 
 #### 2021-04-07

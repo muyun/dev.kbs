@@ -1,10 +1,7 @@
-
 #### note  
 
 #### 2021-05-06  
 * ideas  
-  - begin from Landing page  
-
   - A network of microblogs where you can control your content. 
       + NO Ads, NO harassment, and fake news.
       + [microblog](https://micro.blog/)  
@@ -12,9 +9,13 @@
   - a network of bookmark or newsletter service  
   - e-commerce ?  
 
-* my team  
+* build a team  
   - an artisanal crafting team  
       + [SHINY FROG](https://shinyfrog.net/)
+
+* details  
+  - begin from Landing page  
+
 
 #### 2020-03-19  
 * TODO Features 

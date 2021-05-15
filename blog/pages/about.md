@@ -5,7 +5,7 @@ date: 2012-03-19
 <br>     
 
 I like problem solving and reading.   
-If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao@gmail.com. I’d be happy to hear from you. You can also find me on [Github](https://github.com/muyun) and [Twitter](https://twitter.com/_muyun).
+If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao@gmail.com. I’d be happy to hear from you. You can also find me on [Twitter](https://twitter.com/_muyun) or [Github](https://github.com/muyun).
 <br> <br> 
 
 I am an active learner. Outside of Technology & Philosophy world, I also like Nature, self-improvement, and product & service now. I worked as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup) and Alcatel-Lucent S.A. (Nokia Corporation now). 

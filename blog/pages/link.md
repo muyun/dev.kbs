@@ -40,6 +40,7 @@ date: 2012-03-19
 * [Niniane](http://niniane.blogspot.hk/)  
 * [programming in the twenty-first century](http://prog21.dadgum.com/)  
 * [bast.bookmarks](https://bast.fr/bookmarks/)  
+* **[fs on softkills](https://fs.blog/blog/)**  
 
 
 #### tech
