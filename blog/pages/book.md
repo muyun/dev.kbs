@@ -22,7 +22,7 @@ date: 2012-03-19
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
 * [500 Lines or Less](http://aosabook.org/en/index.html)
 * [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel
-
+* [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston 
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 * [Getting Things Done](https://book.douban.com/subject/1316569/) by David Allen
