@@ -18,9 +18,34 @@
 
 * details  
   - begin from Landing page  
-
+      + [Earlyname](https://tinyprojects.dev/projects/earlyname)  
+  
 
 #### 2020-03-19  
+* issues   
+  - the Code/math display on web 
+      + jupyter function  ?  - NO, but this is a good way to show the coding result  
+
+      + May adjust the flatpage coding part, using markdown not ReST  
+          - [Syntax Highlighting, ReST, Pygments, and Django](http://www.codekoala.com/posts/syntax-highlighting-rest-pygments-and-django/)  
+
+      + use Pygments highlight function  
+
+  - FIX the front-end issues  
+
+  - markdown <space> issues 
+    + use ~flask-mistune~ pkg
+    + use flask_markdown2 
+    + CHECK MORE, and TO IMPROVE 
+
+  - include lines of code 
+
+* deploy  
+  - Deploy [betareader](https://betareader.herokuapp.com/) on heroku  
+    + > cd blog  
+      > git push heroku master  
+
+
 * TODO Features 
   - url_for issue for blueprint 
     + fixed 
@@ -65,23 +90,6 @@
     + Q&A interviews 
 
     + in txt, video format ?  
-
-* issues   
-
-  - the Code/math display on web 
-
-  - Deploy [betareader](https://betareader.herokuapp.com/) on heroku  
-    + > cd blog  
-      > git push heroku master  
-
-  - FIX the front-end issues  
-
-  - markdown <space> issues 
-    + use ~flask-mistune~ pkg
-    + use flask_markdown2 
-    + CHECK MORE, and TO IMPROVE 
-
-  - include lines of code 
 
 #### 2020-03-18  
 

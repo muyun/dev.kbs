@@ -2,7 +2,7 @@ layout: post
 title: "Notes on the five love language"
 date: 2020-06-16
 comments: true
-categories: [notes, softskill, love, summary]
+categories: [notes, softskill, love, self]
 
 
 #### notes on how to show your love languages

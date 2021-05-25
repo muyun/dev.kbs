@@ -84,8 +84,9 @@ public void insert(Key x){
 </code></pre>
 
 The heap algorithms require no more than 2lgN compares for remove the maximum; The operation involves moving the heap path no more than lgN, and it requires two compares for each node on the path (except at the bottom): one to find the child with larger key, the other to decide whether that child needs to be promoted; The function delMax()
+
 <pre class="codehilite"><code>
-:::java 
+:: java 
 public Key delMax(){
     Key max = pq[1]; //the largest key off the top
     exch(1, N--);    //exchange the last one with root

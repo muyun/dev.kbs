@@ -1,17 +1,19 @@
 layout: post
 title: docs
 
+#### notes on tools I am using     
 
-#### notes  
+* Macvim 
+    
 
 * Rectangle  
-  - cmd+crl+<-  -> Left Half  
-  - cmd+crl+->  -> Right Half  
-  - cmd+ctl+return -> Full Screen  
+    + cmd+crl+<-  -> Left Half  
+    + cmd+crl+->  -> Right Half  
+    + q cmd+ctl+return -> Full Screen  
 
 * iterm2 
-  - cmd+shift+D ->  splits the window vertically 
-  - cmd+D -> splits the window horizontally
+    + cmd+shift+D ->  splits the window vertically 
+    + cmd+D -> splits the window horizontally
 
 
 * python in emacs 
@@ -111,13 +113,9 @@ title: docs
 
   -  also could use "emacs --fg-daemon" to start the daemon mode  
 
-
-
-
   - reference
     + [Spacemacs Basics](https://search-and-deploy.gitlab.io/cheat-sheets/spacemacs-basics/)
     + [spacemacs](https://wiki.archlinux.org/index.php/Spacemacs#Install_Spacemacs)
-
 
 
 #### goodbooks

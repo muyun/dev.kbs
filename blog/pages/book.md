@@ -6,11 +6,12 @@ date: 2012-03-19
 
 #### training-2021
 * [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)
-* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego
-* [6.033 Computer System Engineering](http://web.mit.edu/6.033/www/general.shtml)
-* [Digital Product Management: Modern Fundamentals](https://www.coursera.org/learn/uva-darden-digital-product-management/home/welcome)
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
+* [编译原理之美](https://time.geekbang.org/column/article/241656)
 * [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)
 * [Open Source Software Development Methods](https://www.coursera.org/learn/open-source-software-development-methods/home/welcome)
+* [6.033 Computer System Engineering](http://web.mit.edu/6.033/www/general.shtml)
+* [Digital Product Management: Modern Fundamentals](https://www.coursera.org/learn/uva-darden-digital-product-management/home/welcome)
 
 
 #### reading-2021
@@ -25,7 +26,6 @@ date: 2012-03-19
 * [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston 
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
-* [Getting Things Done](https://book.douban.com/subject/1316569/) by David Allen
 
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.
 * [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton
@@ -34,15 +34,10 @@ date: 2012-03-19
 * [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners?from_search=true&from_srp=true&qid=TzUuGOAZOA&rank=1) by James Joyce
 * [流言](https://book.douban.com/subject/1980436/) by 張愛玲
 
-* [The Sovereign Individual](https://hk1lib.org/book/12671001/4d71c1)
 * [The Cashflow Quadrant](https://book.douban.com/subject/1817043/) by C.P.A. Robert T. Kiyosaki with Sharon L. Lechter
 
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇
-* [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )
-* [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (note: some pragmatic sharing working experience) (9/10)
-* [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker
-
 
 #### training-2020
 * [Advanced Programming] with David Beazley

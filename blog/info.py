@@ -31,6 +31,11 @@ def invest():
     page = pages.get_or_404('invest')
     return render_template('info/invest.html', page=page) 
 
+@bp.route('/docs')
+def docs():
+    page = pages.get_or_404('docs')
+    return render_template('info/docs.html', page=page) 
+
 @bp.route('/about')
 def about():
     page = pages.get_or_404('about')
