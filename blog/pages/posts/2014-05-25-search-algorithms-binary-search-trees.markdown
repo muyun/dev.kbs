@@ -6,8 +6,8 @@ categories: [home, algorithms]
 abstract: "Binary search trees (BST) combines the flexibility of insertion in a
 linked list with the efficiency of search in an ordered array."
 
-
 #### Searching Algorithm - BST 
+
 Binary search trees (BST) combines the flexibility of insertion in a
 linked list (using two links per node leads to an efficient
 implementation) with the efficiency of search in an ordered array.
@@ -23,6 +23,7 @@ the left (smaller keys) and right subtree (larger keys).
 <div class="codehilite"><pre><code>
 :::java
 private class Node {
+
         private Key key;   
         private Value val;
         private Node left;  // the left link points to a BST for items with smaller keys
@@ -32,6 +33,7 @@ private class Node {
            this.key = key;
            this.val = val;
         }
+
  }
 </code></pre></div>
 
@@ -41,10 +43,13 @@ The search use the recursive algorithm to search for a key, the function get()
 <div class="codehilite"><pre><code>
 :::java
 public void get (Key key){
+
     return get(root, key);  //starting with the root of the tree
+
 }
 
 private Value get(Node x, Key key){
+
     if(x == null) return null;
 
     int cmp = key.compareTo(x.key);
@@ -54,18 +59,23 @@ private Value get(Node x, Key key){
         return get(x.right, key);
     else
         return x.val;
+
 }
 </code></pre></div>
 
 The insert put key-value pair into BST, if key already exists, update
 with new value, the function put()
+
 <div class="codehilite"><pre><code>
 :::java
 public void put(Key key, Value val){
+
     put(root, key, val);
+
 }
 
 private Node put(Node x, Key key, Value val){
+
     if (x == null)
         return new Node(key, val);
 
@@ -78,9 +88,9 @@ private Node put(Node x, Key key, Value val){
         x.val = val;
 
     return x;
+
 }
 </code></pre></div>
-
 
 #### Performance Analysis:
 
@@ -105,6 +115,5 @@ natural orders (the worst tree shape), that the time could be proportional to ~N
 
 #### Searching Algorithm - hash table
 
-
 * References:
-  - [Binary Search Trees](http://algs4.cs.princeton.edu/32bst/)
+  + [Binary Search Trees](http://algs4.cs.princeton.edu/32bst/)

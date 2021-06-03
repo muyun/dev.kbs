@@ -6,11 +6,41 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 
 
+#### S05E19
+well, now that you **bring it up**. (提起)
+
+I'll take a check for **the other handred**. (另外一百)
+
+y'know, this is probably none of my business, ...
+
+> **I really want to meet you guys, but i have to run. I'll see you later?**
+>
+
+> come on you guys, **give him a break** (放他一马). Ross, seriously, **how's it going with her**? (交往怎么样 )
+>
+
+> I actually do need to talk to you.
+>
+> **I wanted to finish talking to you about** spring vacation.
+> look, i'm having great time with you. and **I just don't want us to move too fast** or
+**put too much pressure on us**. so I'm sorry, i jsut don't think we should go away together yet.
+>
+
+Let us **make it up to you**.  (补偿)
+
+tomorrow night is good, why **put off**( 推迟) something till tomorrow?
+
+> ross, it gonna be ok. **I really like you**. **I like how things are going between us**.
+
+
+
 #### S05E17
 > I don't think we've meeT. i'm Ross.
 > Listen. I know this may sound a little .
 > **Would u maybe wanna grab a cup of coffee sometime or** .
+
 > Sure, That will be nice.
+
 > I will give u a call.
 >
 

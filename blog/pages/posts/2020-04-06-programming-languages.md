@@ -5,19 +5,20 @@ comments: true
 categories: [programming]
 abstract: "[Updating] Notes on the core ideas programming languages, especially on functional programming"
 
-
 #### scheme
 
 #### Standard ML
-  * functional programming
 
-  * sml-ch1
+  + functional programming
+
+  + sml-ch1
     - syntax is how you write sth
     - **semantics** is what that something means
       + **Type-checking** rules (before program runs) in current static environment
         - what type a binding has
         - produces a type or fail
         -
+
       + **Evaluating** the bindings (in the dynamic environment)
         - a value or an error or an infinite loop of the preceding bindings
         - look up value in current dynamic environment
@@ -39,7 +40,7 @@ abstract: "[Updating] Notes on the core ideas programming languages, especially 
       + don't worry about the alias or copy like in java
       + or, like java, you have to care whether alias or copy, and in order to avoid the mutable data is been changed
 
-  * sml-ch2
+  + sml-ch2
     - tuples are syntactic sugar for records with field names 1, 2, ...
 
     - type synonyms -> a convenience for talking about types
@@ -66,8 +67,6 @@ abstract: "[Updating] Notes on the core ideas programming languages, especially 
       + **tail-recursive** -> recursive calls are tail-calls
       + call-stacks -> pop the caller before the call, allowing callee to reuse the same stack space
 
-  * sml-ch3
+  + sml-ch3
     - first-class functions
     - TODO
-
-  *

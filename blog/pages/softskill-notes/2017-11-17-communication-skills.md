@@ -3,13 +3,17 @@ title: "Some learning about communication skills"
 date: 2017-11-17
 comments: true
 categories: [softskill, communication, important, notes, learning]
-abstract: ""
+abstract: "like listening, persuation ... "
 
 
-#### soft communication  
+#### listening   
 * many people want **approval and validation**, not "your opinion"  
     - 說服別人最好的方法不是爭辯，而是**傾聽**  
-    - 设法**从对方的立场去理解一件事情**，先**同意对方的观点，然后再从对方的观点来解释，为什么我们自己的主张是合理的**  
+    - 设法**从对方的立场去理解一件事情**，先**同意对方的观点，然后再从对方的观点来解释，为什么我们自己的主张是合理的** 
+    - **留意对方言语和 非言语 不一致**的地方
+    - 简单描述听到和看到的事情， 并对感受对方的情绪, 让对方感受到被聆听和被明白   
+        + **"听你讲..., 觉得你 ... "**  
+      
 
 #### communication skills  
 * balance between cooperation and competition  
@@ -102,8 +106,8 @@ abstract: ""
         + talking about family, life 
         + "I make friends with him" as if they ere friends 
     - **Non-task communication** 
-            - events, hobbies  
-            - share meals  
+        + events, hobbies  
+        + share meals  
     - common experiences/interests  
     - using first names - correctly  
 
@@ -178,7 +182,7 @@ abstract: ""
     * 工作中要突出重点，让上司知道所做的工作超过了对你预期的任务和客观效果  
 - 适当地让上司掌握工作进度  
     * 定时向上司汇报，随时收集他的意见和建议  
-    * 
+
 - 有策略地建立和你的上司的上司的关系  
 
 

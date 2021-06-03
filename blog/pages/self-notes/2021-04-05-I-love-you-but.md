@@ -1,11 +1,11 @@
 title: Notes on I love you but I'm Not in Love with You
 date: 2021-04-05
-tags: notes, love, softskills,insight,important, learning
-
+tags: notes, love, softskills, insight, important, learning
 
 ### Truely to **Understand**
 
 #### **limerence** is a kind of **merging**, a "**oneness**"
+
 * exercise
     - **look into their eyes just long enough**, give them a kiss on the lips
     - **make a full and frank disclosure**
@@ -23,6 +23,7 @@ tags: notes, love, softskills,insight,important, learning
     - **enough difference to stop the relationship stagnating**
 
 #### limerence  - the crazy, obsessive feelings, the intense joy
+
 * common descriptions
     - **eyes meet**
     - **daydreaming** your beloved
@@ -32,6 +33,7 @@ tags: notes, love, softskills,insight,important, learning
     - the feeling is supreme delight, **what makes life worth living**
 
 #### loving attachment  -  mix of love and life and its practical demands together
+
 * **Listening**
     - **full attention, nodding and asking questions** so she is truly being heard
 
@@ -51,13 +53,14 @@ tags: notes, love, softskills,insight,important, learning
 * extra miles
 
 ##### affectionate regard - caring but with no romantic passion
+
 * feel for our parents, children, best friends
     - just care for someone, want the best for them
 
 * neglecting physical intimacy and not allowing each other to be different enoughhf
 
-
 #### **blending partner** - sharing everything with the beloved
+
 * exercise
     - list of **the things you argued about**
         + money, time apart, tidiness, friends, childcare
@@ -71,15 +74,17 @@ tags: notes, love, softskills,insight,important, learning
     - long to be close - **to be understood, to hold or be held** by another one
     - we wanna be in control, to **be masters of our own destiny**
 
-
 #### **Collaborating: Finding your dream**
+
 * the blocks
     - **Dreams feed your soul** and **express who you are**,
     providing an interest that time just disappears
+
     - **Dreams are about enjoying yourself**,
     So **whether you do something well, indifferently or badly
     is completely unimportant**.
     **If you enjoy it, keep on doing it**.
+
     - **anything is possible in dreams**, forget the practicalities
 
 * how to find your dream
@@ -96,6 +101,7 @@ tags: notes, love, softskills,insight,important, learning
     - **Make a start the next day** ...
 
 ###  **Arguing**
+
 * **understand ourselves**
     - think of all the personal qualities:
       **kind, beautiful soul, cheerful,
@@ -144,7 +150,6 @@ tags: notes, love, softskills,insight,important, learning
     - listen attentively, acknowledge what has been said
         + '**I feel sad that you say that I** ...'
 
-
 * **release the anger properly is to express it**
     - **Explore** - **acknowledge their feelings and check**
         + "**I can see you are** <upset>, do u need to say anything more?"
@@ -161,14 +166,13 @@ tags: notes, love, softskills,insight,important, learning
          + ask 'what have we learnt from this fight?'
           'how will we do things better next time'
 
-
 * why?
     - **arguing open the issues that really matter**
     - create the impetus to sepak out, **creates a sense
      'something must be done'**
 
-
 ### Target - speaking the same language of love
+
 * how to find
     - 'I feel most loved when ...'
     - 'I am most likely to complain that my partner never ... '
@@ -192,7 +196,6 @@ tags: notes, love, softskills,insight,important, learning
 
 * present-giving
 
-
 ### Play - boost Real intimacy
 
 * **Think about your pleasure**
@@ -201,8 +204,6 @@ tags: notes, love, softskills,insight,important, learning
     - excitement:  ride together
     - sensual: coffee, food, flowers, movies, learn to cooking together
     - nurturing: voluntary work, introducing a good book, cooking
-
-
 
 * exercise
     - **compliment or congratulate your partner** on a job well done
@@ -228,16 +229,13 @@ tags: notes, love, softskills,insight,important, learning
     - experiment
         + bring something new into your relationship
 
-
 * **Boredom** is a warning of intimacy
     - **play** to put the passion back
 
-
-
 ### Giving & learning
-
 
 ### Bond
 
 ### reference
+
 * I love you but I'm Not in Love with You

@@ -5,12 +5,13 @@ comments: true
 categories: [notes, learning, important, business, ideas, research]
 abstract: "About creativity" 
 
-
 #### critical thinking  
+
 * TODO  
     - [critical thinking](https://philosophy.hku.hk/think/critical/ct.php)  
 
 #### ideas  
+
 * art + tech + fun   
 
 * how to organize your knowledge  
@@ -30,6 +31,7 @@ abstract: "About creativity"
 * food  
     - [receipt in cooking](https://opensource.cooking/)  
     - 农业  
+    - chinese food  
 
 * language + social  
 
@@ -40,9 +42,17 @@ abstract: "About creativity"
 * blockchain  
 
 #### **self** 
-* **希望过什么样的生活**  
+
+* **希望过什么样的生活**  - creative + freedom  
     - 针对未来的生活 
     - 有意识地构造好圈子 
+
+* philosophy  
+    - 多研究一些问题，少谈些主义  
+    - **多问 how, 少问 why**   
+        + 多问怎么做的问题，少问为什么要做的问题  
+        + 否则容易陷入布道者和控诉者的口水陷阱  
+        + 过于追求理念 (道德)， 反而**失去了 具体的生活体验**    
 
 * Peak - 一流的人如何保持巅峰 
     - **成长** = 适量的压力 + 适度的休息 （切换）
@@ -71,7 +81,6 @@ abstract: "About creativity"
             - **我很幸福** 就可以转变心态 
             - 去感受压力，借用那股力量来帮我集中精神锁定路线，或应付激流 
 
-
 * 太在乎周围人对自己的议论 <- 舆论 
     - **分析下原因**, 先看看别人的议论**是否有道理**  
     - 如果没有, 忽略之 
@@ -82,17 +91,19 @@ abstract: "About creativity"
 * 思维方式 
     - 要叠加, 最大限度复用第一次努力的结果, 而不是每一次都从头开始 
     
+
     - 东亚人凡事认怂 
     - 要么鲁莽 
 
 #### Zero to One 
+
 * use **tracer bullets** to find the **target**  
     - many unknowns and different envs 
     - immediate feedback, and iteration 
     
+
     - **prototypes** are designed to answer just a few questions 
         + you could ignore unimportant details 
-
 
 #### 创意产品 - 从创意连接到产品的人 - 
 
@@ -103,11 +114,14 @@ abstract: "About creativity"
         + 领导能力和在工程上把大问题化解为小问题的能力 
         + 良好的沟通能力 
       
+
         + 好的产品经理 
         + 心胸开阔 
       
+
     - **做出先前没有的东西**, 世界因为他们多少有点儿不同 
     
+
    
 * 科技发明/创意源头 -> develop -> 洞悉需求 / 市场  
   
@@ -118,18 +132,24 @@ abstract: "About creativity"
     - 专业能力  
     - 审美能力 
     
+
 * 需求 - 连接感 
 
 #### System 
+
 * DRY + Orthogonality [ch2 - The pragmatic programmer] 
 * make it reversible - there are no **final decisions**  
     - rock on when it can, to roll with when it must 
 
 #### teamwork 
+
 * softskills  
     
+
 #### find your passion 
+
 * TODO  
 
 #### reference 
+
 * ch2 - The Pragmatic Programmer  

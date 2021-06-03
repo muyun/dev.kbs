@@ -1,52 +1,52 @@
 title: Bookshelf
 date: 2012-03-19
 
-
 ### log of training & books and my ratings
 
 #### training-2021
+
 * [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)
-* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego
+* [Effective Communication](https://learning.edx.org/course/course-v1:IIMBx+BC101x+3T2020/home)
 * [编译原理之美](https://time.geekbang.org/column/article/241656)
 * [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)
 * [Open Source Software Development Methods](https://www.coursera.org/learn/open-source-software-development-methods/home/welcome)
 * [6.033 Computer System Engineering](http://web.mit.edu/6.033/www/general.shtml)
-* [Digital Product Management: Modern Fundamentals](https://www.coursera.org/learn/uva-darden-digital-product-management/home/welcome)
 
+* [Microeconomics](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2020/home)
 
 #### reading-2021
+
 * [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (9/10)
-* [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (8/10)  
-* [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (9/10)  
-* [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen  
+* [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (8/10)
+* [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (9/10)
+* [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
 * [500 Lines or Less](http://aosabook.org/en/index.html)
 * [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel
-* [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston 
+* [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.
 * [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton
 * [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman
-* [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner
-* [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners?from_search=true&from_srp=true&qid=TzUuGOAZOA&rank=1) by James Joyce
 * [流言](https://book.douban.com/subject/1980436/) by 張愛玲
 
-* [The Cashflow Quadrant](https://book.douban.com/subject/1817043/) by C.P.A. Robert T. Kiyosaki with Sharon L. Lechter
+* [The Cashflow Quadrant](https://book.douban.com/subject/1817043/) by C. P. A. Robert T. Kiyosaki with Sharon L. Lechter
 
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇
-* [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )
 
 #### training-2020
+
 * [Advanced Programming] with David Beazley
 * [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University
 * [Cracking the Creativity Code: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology
 * [影響力 x 心理學課程 Influence: The Psychology of Making Things Happen] by Treeholehk
 
-
 #### reading-2020
+
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
 
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  (10/10) (note: so powerful sharing on the psychological journey towards the master)
@@ -77,3 +77,7 @@ date: 2012-03-19
 * [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (note: some pragmatic sharing working experience) (9/10)
 * [Design It!: From Programmer to Software Architect](https://www.goodreads.com/book/show/31670678-design-it) by Michael Keeling (7/10)
 * [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (note: some superb pragmatic working skills) (9/10)
+
+* [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )
+* [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner
+* [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners?from_search=true&from_srp=true&qid=TzUuGOAZOA&rank=1) by James Joyce

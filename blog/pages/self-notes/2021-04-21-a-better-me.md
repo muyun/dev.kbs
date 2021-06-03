@@ -5,8 +5,8 @@ comments: true
 categories: [learning, self, insight, important]
 abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great"
 
-
 ### Goal -> be a **Great** man
+
 * **focus on yourself firstly** and stop worrying about tomorrow
     - **body and mental  Health**
         + keep you in shape 
@@ -35,7 +35,18 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * intentional/**planned your actions**
     - step back if you find yourself **giving more energy than you receive**
 
+* **Courage**  
+    - Don't limit yourself, you can **lead your life**  
+    - If something happens, receive it firstly  
+    - 果断  
+
+* peace in mind  
+    - 主动去爱  
+    - 自立起来  
+    - 选择人生  
+
 #### self-analysis
+
 * **your purpose and your pleasure**
     -  purpose -> dreams  
         + Dreams feed your soul and express who you are,
@@ -64,8 +75,14 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - **your merits**
         + kind, reasonable, tough, open-minded, reliable  
         + 朴实  
-        + 对团队氛围 有些距离  
+        + 对 **狂热的情绪化团队氛围** 有些距离  
+            - 对狂热的情绪化团体活动有一种 天然的抵制  
+            
+
         + patient, insightful  
+        + **Spiritual**, but not religious  
+            - like **self-identify**, not communal or organizational dimensions 
+         
 
     - **your demerits**
         + not a good listerner,  not outgoing, not cheerful, or forgiving
@@ -74,12 +91,31 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + **过于追逐理念， 而失去了具体的生活体验**    
             - 容易陷入 道德控诉， 以及 布道者和控诉者的口水陷阱  
             - **多问怎么做的问题**， 少问 为什么要做的问题  
+            
+
+        + 买的是 理念/idea, 而不是**利益**   
+            - 不太贴地  
+            - **在商言商**  
+            
+
+        + **过于追求平等， 或者 过于给予别人平等**， 而不是公平  
+            - 是人格平等， 而**不是 物质/利益 平等**  
+            - **要让自己爱的人 感觉到 自己很在乎他们**    
+                + 对自己的家人和其他人一样  
+            - 把熟人社会的规则 用在了 陌生人社会上  
+
+        + 过于 同情底层 而忽视 上层 和自己  
+            - 不注意保护自己  
+            - 忽视了**底层的“恶”**， 只看到上层的“假”  
+            - 只 同情 底层，或者 想得到底层人的尊敬 或领导 
+                + 其实底层的人比较weaker， 所以比较势利 
+                + 应该是 **同情 善良的人**， 而不是 经济意义上的 底层  
 
     - learn about yourself by studying your friends
         + honest, understanding, support
 
-    - your advantages  <- feedback analysis
-
+    - your advantages  <- feedback analysis  
+        + “**哪一类工作别人做起来很费力， 自己却轻而易举**”  
 
     - how do u work with yourself ?
         + reading not listening
@@ -98,20 +134,22 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
             - surrounding yourself with **authentic vibes** only
             - **you firstly**
 
-        + friends
-            - know how to **filter out friends**
+        + friends 
             - focus on ones with driven, happy, cheerful, high-principled
-            - stay away from negative people or ones don't like you
+
+            - know how to **filter out friends**
+            - stay away from **negative people** or **ones don't like you**
                 + 有很重的防备心
                 + always depress and discourage you in any way
                 + losers
 
             - **step back** if you find giving your energy more than you receiving
-            - don't trust the weakers, skilled and competent is the first
+            - **don't trust the weakers**, skilled and competent is the first
             - try to make friends with money, ideas, and vision, especailly ones reached there after a struggle
 
         + known
             - small talks  
+            - improve your skills on **how to connect with people**    
 
         + career  
             - maybe an **artisanal crafting** guy  -> a bit creative and freedom lifestyle  
@@ -149,8 +187,8 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - what do u most **desire**? do u intend to acquire it?
         + **how much time daily do u devote to acquiring it**?
 
-
 #### stronger - Monk Mode
+
 * **putting your own needs first**
     - wise men always please themselves firstly, then **give the woman the option to accept how he does things**
         + women choose to do things his way
@@ -162,8 +200,8 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * reference
     - [MONK MODE: STRONGER, SMARTER, MORE REFINED](https://illimitablemen.com/2014/04/13/monk-mode/)
 
-
 #### The quest for power
+
 * **man must poss power** - high-value persons -> being better than other people
     - require self-discipline, motivation, **selfishness, no qualms in taking power from others**
     - self-improvement, actualisation, enrich yourself, and improve your skillsets
@@ -184,12 +222,10 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     - humor
 
-
 *  **Money**
     - need money to **build connections and get into the networks that hire and promote**
     - money **requires an external economic skill** others can benefit from, and **social skills**
     - more money means more opportunity, more opportunity means more growth
-
 
 * Beauty  - good looking people get an advantage
     - **gym**
@@ -198,7 +234,6 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     - **maintain your hair, facial**
     - **dress well**
-
 
 * practical skill sets
     - having an understanding of any discipline
@@ -214,13 +249,13 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - [The Quest for power](https://illimitablemen.com/2014/01/03/20s-men-the-quest-for-power-the-decade-of-empire/)
 
 #### self-skills
+
 * **模仿比聪明和努力更重要**
     - **交流**进而产生对比,对比自然分出高低; **低的自然模仿高的**
         +  **交流进而模仿**, 而不是自己进化
     - **跟不同的人社交**, 老师越多越好
         +  要找不同的老师,  模仿对象越多越好, 这样才可能青出于蓝
     - 要想和优秀的人在一起, **懂他真实的快乐, 懂他真实的痛苦,并且 给予他能量**
-
 
 * master some **skill, interest, or knowledge that others find valuable**
     - once you master it, you'll be rewarded with new opportunities
@@ -281,10 +316,12 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - 只要不是盲目迷信无视科学，信仰祈祷可以带来勇气和让人平静
 
 #### A better me - relate to chocies
+
 * an **exciting & meaningful mission** to help channelize energy & thoughts
     - build a purpose - identify a clear mission, and head toward it
     - let the mission channelize all your inward, latent energy
     
+
     - **build a business**
     
 
@@ -301,28 +338,28 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * reference
     - [Mistakes Relating to life choices](https://lifemathmoney.com/grave-errors-made-by-men-in-their-20s/)
 
-
-
 #### a pleasure of life - healthy, loved, free, and calm
+
 * **do more, think less, meditate at night**  
 
 * do more -> **action** > theory
+
     - you learn how things really work by **doing them**.
+
     - **build a business**
     - **experiment with the reality**
     - **engage in stimulating conversations**
     - don't just read about financial markerts, business, science, philosophy
     
+
     - growth happens in the places **you're scared to go**
     - **if anything is worth doing, do it with all your heart**
-
 
 * build love and families
     - **never let resentment set in** - resolve things quickly
     - cultivate a culture of **honest & loyalty**
     - **appreciate and gratitude** her  
-    - 港女 贴地，实在，不扭捏  
-
+    - 港女 贴地，实在，**不扭捏**  
 
 * freedom
     - **money**
@@ -341,6 +378,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + not the surface level emotions of fleeting hormones
         +  **ground yourself in wisdom, self-honesty, principles and discipline**
     
+
     -  attain **peace with your mind** - self awareness
         + their mind is **humble servant** and not a terrible master
         + the less judgemental you are,
@@ -353,6 +391,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - **cooking** is one of the most fundamental ways to show love & appreciation
     - don't respect a man who poorly behaved woman and children
     
+
     - time and peace of mind are the most expensive mode of payment
     - **Nature and markets**, not people,  are more honest when it comes to giving feedback
     - **start with your vision and deal with reality**
@@ -362,22 +401,25 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     - it's not the place, but **how you do it, and the people you do it with** is more important
     
-    - when the world doesn't make sense, it's a signal that you need to learn
 
+    - when the world doesn't make sense, it's a signal that you need to learn
 
 * self-relationship - **learn about yourself**
     - **learn about yourself and grow** by put yourself into **unfamiliar situations**
         + **see how you respond to them to adapt**
         + **travellings** can put you in lots of novel situations to accelerate growth
     
+
     - **just being yourself is the biggest favor** you can do to yourself
         + people may or maynot help you **depending if you are falling in their story line**
         + **they first like you** and then to feel good they help you
         + **people help you because they like you**, people don't help you because you are smart
         + **forget about sounding smart, just be yourself**
     
+
     - focus on people who share your values right from the beginning , not everyone
       
+
     - always be kind to yourself
         + treat yourself as your dear friend, with kindness and patience
 
@@ -389,7 +431,6 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + mind your business
         + don't gossip, backstab, break your word, betray
         + prey on or look for ways to hurt people
-
 
 * build with relationships
     - go somewhere where the people **make you feel stupid**, and **listen a lot**
@@ -404,6 +445,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - **only real friends** want you to be happy, or end it.
         + a friend is the one that crafts you for a better person, not a worse one
     
+
     - don't worry about impressing others, no one will even remember
         + **people remember the impact** you have one them. Impression is ephemeral.
 
@@ -425,6 +467,11 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + the secret of effortless relationships
 
 #### **methodology**  -  a set of methods and principles  
+
+* **多问 “此人能做些什么”**， 观察自己的上司， 注意自己的下属  
+    - 把**每个人都视为 可以开发**的机会  
+    - 重视人的长处，而不介意缺点； 除非缺点阻碍其长处的发挥  
+
 * lead the people who need you, **follow the people who you need**  
 
 * 把自己放在生活中， 安然所遭遇的一切  
@@ -477,17 +524,17 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - 悟性 - 学习新事物的能力和心态
     - 耐性 - 为长期愿景努力 
 
-
 * 教育
     - 教育的意义,在于**培养独立判断力**, 培养他的自由人格, 去过上一种充实有意义的生活
       
+
 * 聪明
     - **真诚的人都是聪明的**
         + the weakest are not honest
     - 聪明的人 不一定
 
-
 #### work
+
 * **多推销想法, 多问问题, 不断尝试失败**
 
 * 究竟做什么并不重要, 为什么要做这件事 以及 如何做这件事才是最重要的
@@ -499,8 +546,8 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
 * 老板的角度都是，他们能给我们什么？我们是否有这个责任一定要确实完成这些要求？
 
-
 #### **families**
+
 * **在自己喜欢的人身上用心**，**在不喜欢自己的人身上健忘**
 
 * 人性定律：无论一个男人多么需要女人的顺从、夸奖女人的付出，他都不会发自内心的爱和欣赏这个女人
@@ -508,14 +555,16 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
 * 有**内在中心***的女人，找老公自然找能够携手一起创造美好的人，谁也不会觉得谁多付出了，谁亏欠谁了，都是在为自己想要的人生奋斗而已
 
-
 #### china  
+
 * **人的发现**
     - 日本人没有经历过西欧的**文艺复兴**,全体国民都被束缚在日本神学的框架里, 也**被其教义束缚了思维**;
       所以这里没有十九世纪史学大师布克哈特说的**“人的发现”,同时也就没有人道主义产生的土壤**,
       这也是日本人通常被外国人批评**没有内在教养**的原因
+
     -  虽然日本人有炽烈的民族意识, 但是作为 **个人却没有独立的意识, 没有人性的真正发展**;
       而人的思维自由和政治社会活动自由都是从**个人的意识**里产生的
+
     - **独立的人格 -> 能对自己负责的人**
         + 科学依托于**自然规律面前人人平等的精神特质**, 契约和科学精神是一对孪生兄弟
         + 启蒙运动用 **理性解释世界, 把命运掌握在自己手中**;  启蒙运动中的理性崇拜和科学兴起
@@ -532,7 +581,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * 中国人最需要的东西是**放弃因的确不行带来的自卑导致的那份自大, 弥补性的狂妄与自卑自贱交替**
     - 改正因**精神懒惰而带来的那种宿命情结**而导致的那份给自己找核心找主子,在集体中寻找个人价值同时伺机破坏规则的狡黠
 
-* 在人与人及国与国交往中,  只能理解主奴关系
+* 在人与人及国与国交往中, 只能理解主奴关系
     - 也就是上下顺从关系
 
 * 中国对商贾名流一向以道德模范为标准, 而更成熟的商业社会通常把**职业道德和私人道德**分得很清楚
@@ -600,6 +649,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - 只由**问题的现象直接跳跃到 道德的答案**
 
 #### 中国人的教育
+
 * 归因错误的教育方式 -> 因为别人complain或者别人有可能complain，所以我们可以教育孩子收敛一下; 而不是从一开始就告诉孩子，你本来就不应该怎么做怎么做，即便没有任何人指出来。
     - 其实根源在于，他很小时候，你就没告诉**他什么是对，什么是错，什么是客观的依据和准绳**。
     - 你教育了他这样的人生观: 一切以别人眼光为是非标准，要不就是取悦别人，要不就是试探别人底线。
@@ -610,9 +660,11 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * **念书的唯一目的就是知识**，知识与所得财富有正相关；**知识与商业报酬之间没有必然联系**
 
 #### leadership
+
 * 不是要追求独善其身，而是**做领军人物**。就是**用自己对某个事业的激情来感染影响帮助其他人**
 
 #### 婚姻
+
 * 真和诚意
     - 为对方做点什么
 * 第二次没反应就不应该追了
