@@ -6,6 +6,95 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 
 
+#### describe your feelings
+happiness - thrilled, blissfully happy, to be giddy
+sad  -  feel blue, feel down,  Not really felling it
+angry - prickly, furious
+tired - be worn down, be worn out
+confused - to feel off, to be a hot mess, feel puzzled,
+
+> I fell ya. or I know the feeling.
+
+
+#### S05E25
+"**i still love you. I know I shouldn't even be here telling you this**.
+after seeing you the other night, **I knew if I didn't tell you
+I'd regret it for the rest of my life**"
+
+"**I had to tell you. I wanna spend my life with you.
+I wanna marry you. I wanna have kids with you.**"
+
+"**Look, I know this is crazy, but am I too late?**"
+
+"I tried to forget you. I really did"
+
+"I am sorry, but this is not gonna happen"
+
+"**That's fine. I'll walk away. I'll never bother you again
+only if you say chandler's willing to give you everthing I am**"
+
+"Chanle, In all my life, I never thought I would be so lucky as to fall in lvoe with .."
+
+"**you make me happier than I ever thougth i could be.
+if you like me, I'll spend the rest of my life trying to make you feel the same way.**"
+"Monaka, will u marry me? "
+
+
+#### S05E24
+"I'm fine. In fact, I've been fine for a long time now and
+**I think the reason is you**.
+Before i met you, I had really little life, and I couldn't imagine
+growing old without you. "
+
+**Ok, breakup's still on.**
+
+there's a customer who wants to compliment the chef.
+
+> **It was great seeing you the other night. **
+> I came here to tell you something else.
+> **I came here to tell you I still love you.**
+
+
+
+#### S05E23
+> so how ar things going with paul?
+>  I wish I could get him to open up a little bit, **share some feelings**.
+>
+j
+> **If he's angry, he really shouldn't just cover it up**.
+  **I wish he'd just tell me the truth.**
+
+>
+> I **made a reservation** (订座) at china garden. Is that okay?
+>
+
+> tell me about your childhood.  the rest of your life, any regrets?
+> you share you feelings, it's beautiful
+>
+
+> I'm sorry. I **didn't mean to do that** (故意). I wouldn't do that.
+>
+
+> I want him to open up.
+>
+
+> I didn't mean to stifle you. this is all **just a little overwhelming** ( 受不了).
+>
+
+> Hi, there was a **slight mix-up** (小差错) at the jewelry store.
+>  **I'm gonna need to have that back**.  But, **in exchange** **i'm willing to trade you** this beautiful more expensive ring.
+
+> guys? I've got something important to tell you.
+> I'm gonna ask monica to marry me.
+
+
+#### S05E22
+This place is really beautiful.
+> Do u wanna **make out**?  (亲热 )
+> **are you okay?  what's wrong?**
+> you brought **protection**, right? (保险套)
+
+
 #### S05E19
 well, now that you **bring it up**. (提起)
 
