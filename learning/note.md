@@ -1,5 +1,0 @@
-
-#### notes on programming  
-
-
-#### JS  
