@@ -5,70 +5,79 @@ comments: true
 categories: [learning, love]
 abstract: "!! Record my Love with Ivy"
 
+
+#### lover
+* 身体吸引力
+* **灵魂 契合**
+    - 待在一起是否舒服
+    - 能沟通到
+    - 审美一致， 情调一致， 三观一致
+
+
 #### 沟通和表达
 
  * **尊重和确认的力量**  - 对伴侣观点的关心和尊重
     - 行为描述
       + 在精确表述上表现很糟糕, 如果抱怨某事,同时谈及几个问题
       + 彼此倾听方面表现糟糕, 很少耐心自习思索伴侣所说的话
-      
+
 
       + 尽可能清楚明白, **详细具体地指出惹恼我们的特定行为**, 应该专指某一特定事件, 不涉及普遍性
-        - 用**第一人称明确说明自己的感受** “**当你在x情景下做x的时候,我感到**”  
-      + **复述和向对方检验自己的知觉**, 积极主动地努力理解自己的伴侣  
+        - 用**第一人称明确说明自己的感受** “**当你在x情景下做x的时候,我感到**”
+      + **复述和向对方检验自己的知觉**, 积极主动地努力理解自己的伴侣
 
- * **先付出第一步(而不是全身心付出)**    
-    - 越付出, 对方会看到, 在更信任的情况下, 对方也会更付出   
-    - 互动, 互相付出, 经历到爱  
+ * **先付出第一步(而不是全身心付出)**
+    - 越付出, 对方会看到, 在更信任的情况下, 对方也会更付出
+    - 互动, 互相付出, 经历到爱
 
- * self  
-    - 多一些反问：“在这段关系中，你寻求的是什么，这个人是否给了你需要的。”  
+ * self
+    - 多一些反问：“在这段关系中，你寻求的是什么，这个人是否给了你需要的。”
     - let you feel like a better version of yourself,  if you feel bad about yourself, it is not a good relationship
 
  * 相处的模式
-    - 让她感受到 **真诚与自在**, 互相之间会给对方很多空间   
-      + 自信, 轻松, 舒服, 积极, 阳光  
+    - 让她感受到 **真诚与自在**, 互相之间会给对方很多空间
+      + 自信, 轻松, 舒服, 积极, 阳光
 
-    - 当平等的人**互相吸引, 欣赏, 尊重和理解**  
+    - 当平等的人**互相吸引, 欣赏, 尊重和理解**
 
-    - **What women expect of men**   
-      + listen  
-          - mose mean are using words, not **feelings**, you should **express feelings**    
+    - **What women expect of men**
+      + listen
+          - mose mean are using words, not **feelings**, you should **express feelings**
           - the baby doesn't know what you are saying,
-          the baby only cares about **your tone of voice**    
+          the baby only cares about **your tone of voice**
 
-          - **听内容，情绪，体会她的感受**   
-              + **让对方感受被聆听和被明白**     
-              + **帮助对方去接纳自己**  
-                 
+          - **听内容，情绪，体会她的感受**
+              + **让对方感受被聆听和被明白**
+              + **帮助对方去接纳自己**
 
-          -  **观察她的非口语的反应， 以及她非口语背后的意义**，不着急给分析，或建议  
-              + **“听你讲..., 感觉你很 ... ”**  
-              + 问问题的目标是 **促进探索**    
 
-      + **give advice only when asked**  
-      + **offer help in any kind of physical tasks**    
-      + **do the little things** - flowers, chocolates, romance  
-      + make their life easier in subtle ways. Help them without announcing it to the world  
+          -  **观察她的非口语的反应， 以及她非口语背后的意义**，不着急给分析，或建议
+              + **“听你讲..., 感觉你很 ... ”**
+              + 问问题的目标是 **促进探索**
 
-    - **自信诚实的做自己**, **鼓励对方真实地表达自我**, **在意对方的感受**    
-      + “你开心吗?”  
-      + “你需要什么我可以做的吗?”  
-      + “你需要我的帮助吗?”  
-      + “你想要听听我的意见吗?”  
+      + **give advice only when asked**
+      + **offer help in any kind of physical tasks**
+      + **do the little things** - flowers, chocolates, romance
+      + make their life easier in subtle ways. Help them without announcing it to the world
+
+    - **自信诚实的做自己**, **鼓励对方真实地表达自我**, **在意对方的感受**
+      + “你开心吗?”
+      + “你需要什么我可以做的吗?”
+      + “你需要我的帮助吗?”
+      + “你想要听听我的意见吗?”
       + emotional connection, it's a willingness from both sides to support each other emotionally and to understand
 
-    - 中国男 缺乏界限感, 礼貌和同理心, 显得鲁莽, 自大又自我中心 
-      + 美国男 紧张  自己会不会太鲁莽, **给对方不好的体验**, 而不是紧张对方怎么看自己  
+    - 中国男 缺乏界限感, 礼貌和同理心, 显得鲁莽, 自大又自我中心
+      + 美国男 紧张  自己会不会太鲁莽, **给对方不好的体验**, 而不是紧张对方怎么看自己
 
-    - **a strong woman** is a loyal hitter that's ride or die  
+    - **a strong woman** is a loyal hitter that's ride or die
 
-    - 兩公婆最緊要坦白同溝通，大家咩都拎出來講，所以我同老公每日都會傾計  
-      + 制造蛋糕，约会  
+    - 兩公婆最緊要坦白同溝通，大家咩都拎出來講，所以我同老公每日都會傾計
+      + 制造蛋糕，约会
 
-    - 现实问题,  她有疑虑,  给她回馈 
-      + 对这个感情 的 坚定, 信心和自信  
-      + 自己要承担责任  
+    - 现实问题,  她有疑虑,  给她回馈
+      + 对这个感情 的 坚定, 信心和自信
+      + 自己要承担责任
       +  而不是仅仅说开心就好
 
 #### record the love with Ivy
@@ -106,40 +115,40 @@ abstract: "!! Record my Love with Ivy"
 
 * skills
   + **experience her emotions**
-    - listen to her  
-    - always respect her opinion  
-    - do nice things for her  
-    - compliment her  
+    - listen to her
+    - always respect her opinion
+    - do nice things for her
+    - compliment her
     +
 
   + express self
-    - **主人翁精神**  
+    - **主人翁精神**
 
     - be honest
-      - tell her the truth  
-      - if you fall in love with her, just say it  
-      - **tackle any problems or worries you face together, don't bottle things up**  
+      - tell her the truth
+      - if you fall in love with her, just say it
+      - **tackle any problems or worries you face together, don't bottle things up**
 
     - "你今天怎么样"
-  +  
+  +
   + be a gentleman
 
-  + **relax** 
-  + courages  
+  + **relax**
+  + courages
 
 * love through your behavior
   -
 
 * love through romantic gestures
 
-* express your love in public  
-  + needn't care the others  
-  + others will help and encourage you, they are happier with you  
+* express your love in public
+  + needn't care the others
+  + others will help and encourage you, they are happier with you
 
 * value
-  + kindness, honesty, empathy 
-  + like directness, openness 
-  + enjoy positive vibes 
+  + kindness, honesty, empathy
+  + like directness, openness
+  + enjoy positive vibes
 
 #### how
 
@@ -300,7 +309,7 @@ abstract: "!! Record my Love with Ivy"
    - 如果你在爱别人, 但却没有唤起他人的爱, 也就是不能把自己变成一个被人爱的人, 是**一种不幸**
    - 给的人**不应该把对方看作是他帮助的对象, 而应该同对方建立一种真正的, 创造性的紧密关系**
 
- * **情的积极性**除了**有给的要素**  
+ * **情的积极性**除了**有给的要素**
    - 关心
 
      + 对生命以及我们所爱之物成长的**积极的关心**
@@ -392,7 +401,7 @@ abstract: "!! Record my Love with Ivy"
     - **有文化/见识** - 10%
     - **开朗活波**
     - 有活力 - 5%
-    - 善良  - 5%  
+    - 善良  - 5%
     - 女人味 - 5%
 
   + 减分项
