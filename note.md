@@ -7,12 +7,28 @@
 #### 2021-05-06  
 
 * ideas  
-  + A network of microblogs where you can control your content. 
+  - A network of microblogs where you can control your content. 
       + NO Ads, NO harassment, and fake news.
       + [microblog](https://micro.blog/)  
+
+  - working in Asyncio  way  
+      + [Demystifying Asynchronous Programming in Python](https://chsasank.com/digging-deep-into-async-await-python.html?continueFlag=e55583ffe9198f66eb1db2f897377752)
+      + [Asynchronous Everything](http://joeduffyblog.com/2015/11/19/asynchronous-everything/)
   
-  + a network of bookmark or newsletter service  
-  + e-commerce ?  
+  -  a network of bookmark or newsletter service  
+
+  -  a blog on 中餐馆  or chinese food  
+  
+  -  e-commerce ?  
+      + [Candide - plants](https://candidegardening.com/GB/identify-plants) 
+      + [trogon - learning to identify birds](https://github.com/dandavison/trogon)
+
+  - generative art  
+
+  - personal data management 
+      + [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
+      + [How I store my files](https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html)
+  
 
 * build a team  
   + an artisanal crafting team  
@@ -23,10 +39,22 @@
       + [Earlyname](https://tinyprojects.dev/projects/earlyname)  
   
 
+#### 2020-08-06 
+* issues 
+  - fix the markdown format issues  
+  to achieve the same with ones from newblog 
+
+  - code highlighting  
+
+* learning  
+  - python 
+  - react
+  - SCSS
+
 #### 2020-03-19  
 
 * issues   
-  + the Code/math display on web 
+  - the Code/math display on web 
       + jupyter function  ?  - NO, but this is a good way to show the coding result  
 
       + May adjust the flatpage coding part, using markdown not ReST  
@@ -34,74 +62,72 @@
 
       + use Pygments highlight function  
 
-  + FIX the front-end issues  
+  -  FIX the front-end issues  
 
-  + markdown <space> issues 
-    - use ~flask-mistune~ pkg
-    - use flask_markdown2 
-    - CHECK MORE, and TO IMPROVE 
-    - rewrite markdown pkg?  
+  -  markdown <space> issues 
+      +  use ~flask-mistune~ pkg
+      + use flask_markdown2 
+      +  CHECK MORE, and TO IMPROVE 
+      +  rewrite markdown pkg?  
 
-  + include lines of code 
+  -  include lines of code 
 
 * deploy  
-  + Deploy [betareader](https://betareader.herokuapp.com/) on heroku  
-    - > cd blog  
-      > git push heroku master  
+  -  Deploy [betareader](https://betareader.herokuapp.com/) on heroku  
+      + > cd blog  
+        > git push heroku master  
 
 * TODO Features 
-  + url_for issue for blueprint 
-    - fixed 
-  + check blueprint and react 
+  -  url_for issue for blueprint 
+      +  fixed 
+  -  check blueprint and react 
   
-  + next functions  
-    - fix the file format  
-        - fix it basically  
-    - on cloud 
-        - [mykbs on pythonanywhere](http://muyun.pythonanywhere.com/) 
-        - pythonanywhere is for hackers/engineers  
+  -  next functions  
+      +  fix the file format  
+         - fix it basically  
+      +  on cloud 
+         - [mykbs on pythonanywhere](http://muyun.pythonanywhere.com/) 
+         - pythonanywhere is for hackers/engineers  
             + cannot support RSS feed from 3rd parties  
-        - Deploy [betareader](https://betareader.herokuapp.com/) on heroku  
+         - Deploy [betareader](https://betareader.herokuapp.com/) on heroku  
             
 
-    - tags, Clicking a tag shows all the posts with that tag.
+      + tags, Clicking a tag shows all the posts with that tag.
         - DONE   
         - fix the file format issues  
         - tags function is so convenient for index/home functions  
         - so exciting to code it myself 
 
-    - code optimization and restruct 
+      +  code optimization and restruct 
         - Done, use filter in back-end, not in front-end/jinja for it
 
-    - Store and list the liked posts and search based on tags
+      + Store and list the liked posts and search based on tags
     
+      +  A hacker news for some industry  
 
-    - A hacker news for some industry  
-
-    - news aggregator or a community
+      + news aggregator or a community
         - RSS feed from new posts or papers  
         - feedparser 
 
-    - write note 
+      + write note 
     
 
-    - only show latest 5 posts, and multi-pages    
+      +  only show latest 5 posts, and multi-pages    
         - flask-paginate 
 
-    - TODO 
-    - RSS function  
-        - python3-feedgen 
-    - a search box that filters the index page by name or date  
+      + TODO 
+        - RSS function  - python3-feedgen 
+        - a search box that filters the index page by name or date  
 
-    - Q&A interviews 
+      + Q&A interviews 
 
-    - in txt, video format ?  
+      + in txt, video format ?  
 
 #### 2020-03-18  
 
 * TODO 
-  + react  
-  + [markdown in flask](https://florian-dahlitz.de/blog/build-a-markdown-to-html-conversion-pipeline-using-python)
+  - react  
+  - [markdown in flask](https://florian-dahlitz.de/blog/build-a-markdown-to-html-conversion-pipeline-using-python)
 * doc using Sphinx
 
 #### 2020-03-17  
@@ -124,7 +150,7 @@
 * TODO  
   + transfer books.md to html 
   + improve the layout  
-  + pytest 
+  + **pytest** 
 
 ##### 2020-03-13  
 

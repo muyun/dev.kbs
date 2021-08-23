@@ -1,3 +1,12 @@
+
+
+#### TODO  
+* open source projects 
+    - [python filesystems](https://filesystem-spec.readthedocs.io/en/latest/intro.html) 
+    - [nushell](https://github.com/nushell/nushell)
+    - [deno](https://github.com/denoland/deno)
+
+
 #### About [Composing Programs](http://composingprograms.com/pages/11-getting-started.html)    
 * how computers interpret computer programs and carry out computational processes  
 * some recent progress in computer programs  
