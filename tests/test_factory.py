@@ -1,12 +1,14 @@
-#from context import client, app
+# from context import client, app
 import pytest
 
 from context import blog
-from blog.app import app, pages
+from myblog.app import app, pages
 
-@pytest.fixture # contains setup functions called fixtures that each test will use
+
+@pytest.fixture  # contains setup functions called fixtures that each test will use
 def client(app):
     return app.test_client()
+
 
 """
 @pytest.fixture  # contains setup functions called fixtures that each test will use

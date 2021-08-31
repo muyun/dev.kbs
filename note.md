@@ -1,5 +1,10 @@
 #### note  
 
+#### 2021-08-30  
+
+* TODO  
+    - learn js  
+
 #### 2021-05-15  
 
 * DOM - Document Object Model  
@@ -7,6 +12,8 @@
 #### 2021-05-06  
 
 * ideas  
+  - A one-to-one language meetup  
+
   - A network of microblogs where you can control your content. 
       + NO Ads, NO harassment, and fake news.
       + [microblog](https://micro.blog/)  

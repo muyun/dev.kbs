@@ -1,4 +1,4 @@
-# contains setup functions called fextures that each test will use 
+# contains setup functions called fextures that each test will use
 
 import os
 import tempfile
@@ -6,14 +6,16 @@ import tempfile
 import pytest
 
 from context import blog
-from blog.app import app, pages
+from myblog.app import app, pages
+
 
 @pytest.fixture
 def pages():
-    source = os.path.join(os.path.dirname(__file__), 'pages')
-    app.config['FLATPAGES_ROOT'] = source
+    source = os.path.join(os.path.dirname(__file__), "pages")
+    app.config["FLATPAGES_ROOT"] = source
 
-    #yield app
+    # yield app
+
 
 """
 from blog import create_app

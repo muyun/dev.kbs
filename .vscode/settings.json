@@ -9,4 +9,5 @@
         "editor.acceptSuggestionOnEnter": "on",
         "editor.defaultFormatter": "mervin.markdown-formatter",
     },
+    "python.formatting.provider": "black",
 }
