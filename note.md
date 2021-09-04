@@ -1,5 +1,16 @@
 #### note  
 
+#### 2021-09-02  
+*  TODO - an application on sharing and storing photos  
+    - store my personal photos or videos  
+    - historical and rare photographs  
+    - art photographs  
+    - [Rare Historical Photos](https://rarehistoricalphotos.com/about-us/) 
+
+* Tech side 
+    - server with python 
+    - frontend with static part, not a framework 
+
 #### 2021-08-30  
 
 * TODO  
@@ -13,6 +24,8 @@
 
 * ideas  
   - A one-to-one language meetup  
+
+
 
   - A network of microblogs where you can control your content. 
       + NO Ads, NO harassment, and fake news.
