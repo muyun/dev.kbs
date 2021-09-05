@@ -23,9 +23,12 @@
 #### 2021-05-06  
 
 * ideas  
+
+  - a tool to track your personal finances 
+      + [How you can track your personal finances using Python](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/)  
+      + [plain text accounting](https://plaintextaccounting.org/#plain-text-accounting-apps)  
+
   - A one-to-one language meetup  
-
-
 
   - A network of microblogs where you can control your content. 
       + NO Ads, NO harassment, and fake news.
