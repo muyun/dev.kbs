@@ -1,4 +1,5 @@
-#### note  
+
+#### notes  
 
 #### 2021-09-02  
 *  TODO - an application on sharing and storing photos  
