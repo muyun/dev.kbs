@@ -1,3 +1,3 @@
 
 #### myart
-*  TODO - an application on sharing and storing images  
+*  TODO - an application on storing and sharing  historical photographs 
