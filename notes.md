@@ -1,5 +1,9 @@
 
-#### notes  
+#### Notes on idea Demo and Product
+* product manager  
+
+* demos
+    - Deploy [betareader](https://betareader.herokuapp.com/)  
 
 #### 2021-09-02  
 *  TODO - an application on sharing and storing photos  
