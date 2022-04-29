@@ -15,6 +15,7 @@
         + [Rare Historical Photos](https://rarehistoricalphotos.com/about-us/) 
         + [storing-images-in-python](https://realpython.com/storing-images-in-python/)
     - e-commerence on art creations?  
+    - family photos  
 
 * Tech 
     - server with python 
