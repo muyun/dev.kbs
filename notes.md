@@ -1,9 +1,29 @@
 
 #### Notes on idea Demo and Product
 * product manager  
+    - [products](https://blog.hartleybrody.com/building-products/)
+
+* web apps  
+    - docker  
+    - [fly.io]  
+    - [Serverless Stack Guide](https://serverless-stack.com/guide.html)  
+
+* a self-hosted solution 
+    - open-source and full control of your data  
+    - it works intuitive and comes with a stunning, beautiful interface
 
 * demos
     - Deploy [betareader](https://betareader.herokuapp.com/)  
+
+
+####  Basics of the Design Philosophy    
+* MVC Model  
+
+
+* ch5 - Textuality    
+
+* reference  
+    - [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/)  
 
 #### 2021-09-02  
 *  TODO - an application on sharing and storing photos  
@@ -25,9 +45,9 @@
 
 * DOM - Document Object Model  
 
-#### 2021-05-06  
-
-* ideas  
+#### ideas
+* ideas    
+  - matching system  
 
   - a tool to track your personal finances 
       + [How you can track your personal finances using Python](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/)  
