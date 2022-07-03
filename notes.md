@@ -1,24 +1,23 @@
 
-#### Notes on idea Demo and Product
+#### Notes on idea Demo and Product  
 * product manager  
-    - [products](https://blog.hartleybrody.com/building-products/)
+    - [products](https://blog.hartleybrody.com/building-products/)  
 
 * web apps  
     - docker  
     - [fly.io]  
     - [Serverless Stack Guide](https://serverless-stack.com/guide.html)  
 
-* a self-hosted solution 
+* a self-hosted solution  
     - open-source and full control of your data  
-    - it works intuitive and comes with a stunning, beautiful interface
+    - it works intuitive and comes with a stunning, beautiful interface  
 
-* demos
+* demos  
     - Deploy [betareader](https://betareader.herokuapp.com/)  
 
 
 ####  Basics of the Design Philosophy    
 * MVC Model  
-
 
 * ch5 - Textuality    
 
@@ -30,11 +29,14 @@
     - store my personal photos or videos  
     - historical and rare photographs  
     - art photographs  
-    - [Rare Historical Photos](https://rarehistoricalphotos.com/about-us/) 
+    - [Rare Historical Photos](https://rarehistoricalphotos.com/about-us/)  
 
 * Tech side 
-    - server with python 
+    - server with python  
     - frontend with static part, not a framework 
+
+* TODO 
+    - learn RESTful APIs  
 
 #### 2021-08-30  
 
