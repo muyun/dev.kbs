@@ -7,8 +7,11 @@
 
     - enjoy the beauty  
 
+    - Infographics  
+
 
 * ideas  
+    - 数据可视化 Infographics  
     - historical and rare photographs  
     - art photographs  
     - reference  

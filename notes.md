@@ -3,6 +3,11 @@
 * product manager  
     - [products](https://blog.hartleybrody.com/building-products/)  
 
+* TODO  
+    - telegram cloud storage  
+    
+    - [The Ultimate Flask and React](https://realpython.com/the-ultimate-flask-front-end/)
+
 * web apps  
     - docker  
     - [fly.io]  
@@ -36,7 +41,7 @@
     - frontend with static part, not a framework 
 
 * TODO 
-    - learn RESTful APIs  
+    - [learn RESTful APIs](https://realpython.com/api-integration-in-python/#rest-and-python-building-apis)
 
 #### 2021-08-30  
 
