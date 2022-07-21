@@ -54,6 +54,8 @@
 
 #### ideas
 * ideas    
+  - habitat home assistant
+      + https://www.home-assistant.io/
   - matching system  
 
   - a tool to track your personal finances 
