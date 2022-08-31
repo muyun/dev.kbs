@@ -52,10 +52,18 @@
 
 * DOM - Document Object Model  
 
-#### ideas
+#### ideas  
+* notes  
+  - pick an idea you have used  
+
+  - reference  
+      + [Build a SaaS Startup](https://news.ycombinator.com/item?id=32647091)  
+      
+
 * ideas    
   - habitat home assistant
       + https://www.home-assistant.io/
+  
   - matching system  
 
   - a tool to track your personal finances 
