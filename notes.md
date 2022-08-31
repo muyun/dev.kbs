@@ -4,9 +4,18 @@
     - [products](https://blog.hartleybrody.com/building-products/)  
 
 * TODO  
-    - telegram cloud storage  
+  - pick an idea you have used  
     
-    - [The Ultimate Flask and React](https://realpython.com/the-ultimate-flask-front-end/)
+  - build your financial dashboard  
+      + Dash  
+      + [Shiny for Python](https://shiny.rstudio.com/py/)  
+
+  - telegram cloud storage  
+      + [The Ultimate Flask and React](https://realpython.com/the-ultimate-flask-front-end/)  
+
+  - reference  
+      + [Build a SaaS Startup](https://news.ycombinator.com/item?id=32647091)  
+
 
 * web apps  
     - docker  
@@ -21,48 +30,17 @@
     - Deploy [betareader](https://betareader.herokuapp.com/)  
 
 
-####  Basics of the Design Philosophy    
-* MVC Model  
-
-* ch5 - Textuality    
-
-* reference  
-    - [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/)  
-
-#### 2021-09-02  
-*  TODO - an application on sharing and storing photos  
-    - store my personal photos or videos  
-    - historical and rare photographs  
-    - art photographs  
-    - [Rare Historical Photos](https://rarehistoricalphotos.com/about-us/)  
-
-* Tech side 
-    - server with python  
-    - frontend with static part, not a framework 
-
-* TODO 
-    - [learn RESTful APIs](https://realpython.com/api-integration-in-python/#rest-and-python-building-apis)
-
-#### 2021-08-30  
-
-* TODO  
-    - learn js  
-
-#### 2021-05-15  
-
-* DOM - Document Object Model  
-
 #### ideas  
-* notes  
-  - pick an idea you have used  
-
-  - reference  
-      + [Build a SaaS Startup](https://news.ycombinator.com/item?id=32647091)  
-      
 
 * ideas    
   - habitat home assistant
       + https://www.home-assistant.io/
+
+  -  TODO - an application on sharing and storing photos  
+      + store my personal photos or videos  
+      + historical and rare photographs  
+      + art photographs  
+      + [Rare Historical Photos](https://rarehistoricalphotos.com/about-us/)  
   
   - matching system  
 
@@ -103,6 +81,17 @@
   + begin from Landing page  
       + [Earlyname](https://tinyprojects.dev/projects/earlyname)  
   
+
+####  Basics of the Design Philosophy    
+* MVC Model  
+
+* ch5 - Textuality    
+
+* reference  
+    - [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/)  
+
+
+
 
 #### 2020-08-06 
 * issues 
